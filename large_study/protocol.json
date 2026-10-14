@@ -1,0 +1,15 @@
+{
+  "question": "Can a species-conditioned neural head on frozen ESM-2 35M features improve MIC regression under peptide-component holdout, and what is the cost of simultaneous uncertainty coverage across a whole component?",
+  "dataset": "All eligible GRAMPA rows at a pinned public commit; canonical sequences 8-100 residues, finite log10-MIC targets and organism metadata",
+  "dataset_size": "Use all eligible rows; no small-data ceiling or random row downsampling",
+  "representation": "Frozen ESM-2 35M residue mean, amino-acid composition/length and six inherited modification flags",
+  "model": "Three Gaussian-NLL MLP heads, species embeddings, AdamW, max 40 epochs, early stopping on validation NLL",
+  "baselines": ["training organism mean", "composition+chemistry+species ridge(alpha=10)", "composition+chemistry+species histogram gradient boosting(150 iterations)"],
+  "split": "Connected components of normalized edit similarity >=0.8; group shuffle into train/validation/calibration/test; every sequence and component stays in one split",
+  "selection": "Train normalization/vocabulary only; select neural epochs on validation; compute interval multipliers on calibration; no test-driven tuning",
+  "uncertainty": "Compare row residual quantile with maximum residual per calibration component; report both row and simultaneous component coverage",
+  "metrics": ["test MAE", "test RMSE", "Pearson correlation", "interval width", "row coverage", "component simultaneous coverage", "modification metadata strata"],
+  "seed": 20261014,
+  "status": "Locally fixed before fitting; not externally preregistered",
+  "limitations": "Upstream processed targets omit original censoring. Data rows are not independent experiments. Edit components are not certified homology clusters. There is no publication-held-out or prospective validation claim. A worse-than-baseline result will remain in the report."
+}

@@ -1,0 +1,468 @@
+{
+  "exact": [
+    {
+      "component": "92e732a2dde2",
+      "papers": [
+        "10.1016/j.celbio.2025.100088"
+      ],
+      "n_assay_rows": 10,
+      "n_sequences": 10
+    },
+    {
+      "component": "d054a42d8862",
+      "papers": [
+        "10.1016/j.celbio.2025.100183"
+      ],
+      "n_assay_rows": 26,
+      "n_sequences": 26
+    },
+    {
+      "component": "b41bca0a9a62",
+      "papers": [
+        "10.1016/j.celbio.2026.100452"
+      ],
+      "n_assay_rows": 2,
+      "n_sequences": 1
+    },
+    {
+      "component": "144719f40947",
+      "papers": [
+        "10.1016/j.chom.2023.07.001"
+      ],
+      "n_assay_rows": 8,
+      "n_sequences": 8
+    },
+    {
+      "component": "e7e4e845b9c2",
+      "papers": [
+        "10.1016/j.tibtech.2024.09.008"
+      ],
+      "n_assay_rows": 308,
+      "n_sequences": 36
+    },
+    {
+      "component": "13573d6a2f0f",
+      "papers": [
+        "10.1021/acsnano.1c04496"
+      ],
+      "n_assay_rows": 21,
+      "n_sequences": 3
+    },
+    {
+      "component": "e25751a6c18c",
+      "papers": [
+        "10.1021/jacsau.5c00947"
+      ],
+      "n_assay_rows": 6,
+      "n_sequences": 3
+    },
+    {
+      "component": "5f68760109d2",
+      "papers": [
+        "10.1038/s41467-025-60051-6"
+      ],
+      "n_assay_rows": 250,
+      "n_sequences": 50
+    },
+    {
+      "component": "3f3976d97f00",
+      "papers": [
+        "10.1038/s41551-024-01201-x"
+      ],
+      "n_assay_rows": 180,
+      "n_sequences": 53
+    },
+    {
+      "component": "bec0097430b1",
+      "papers": [
+        "10.1038/s41564-025-02061-0"
+      ],
+      "n_assay_rows": 375,
+      "n_sequences": 75
+    },
+    {
+      "component": "cc6b33b337ed",
+      "papers": [
+        "10.1038/s41564-026-02408-1"
+      ],
+      "n_assay_rows": 173,
+      "n_sequences": 59
+    },
+    {
+      "component": "7948587d34c9",
+      "papers": [
+        "10.1038/s41589-026-02269-z"
+      ],
+      "n_assay_rows": 21,
+      "n_sequences": 12
+    },
+    {
+      "component": "25b36f9b7705",
+      "papers": [
+        "10.1038/s42003-023-05254-7"
+      ],
+      "n_assay_rows": 104,
+      "n_sequences": 10
+    },
+    {
+      "component": "3344196f7579",
+      "papers": [
+        "10.1038/s42256-025-01119-2"
+      ],
+      "n_assay_rows": 34,
+      "n_sequences": 9
+    },
+    {
+      "component": "b47a1491cbd2",
+      "papers": [
+        "10.1038/s42256-026-01237-5"
+      ],
+      "n_assay_rows": 423,
+      "n_sequences": 86
+    },
+    {
+      "component": "74c8bf71cf22",
+      "papers": [
+        "10.3390/ijms26188914"
+      ],
+      "n_assay_rows": 6,
+      "n_sequences": 6
+    }
+  ],
+  "edit_0.9": [
+    {
+      "component": "92e732a2dde2",
+      "papers": [
+        "10.1016/j.celbio.2025.100088"
+      ],
+      "n_assay_rows": 10,
+      "n_sequences": 10
+    },
+    {
+      "component": "d054a42d8862",
+      "papers": [
+        "10.1016/j.celbio.2025.100183"
+      ],
+      "n_assay_rows": 26,
+      "n_sequences": 26
+    },
+    {
+      "component": "b41bca0a9a62",
+      "papers": [
+        "10.1016/j.celbio.2026.100452"
+      ],
+      "n_assay_rows": 2,
+      "n_sequences": 1
+    },
+    {
+      "component": "144719f40947",
+      "papers": [
+        "10.1016/j.chom.2023.07.001"
+      ],
+      "n_assay_rows": 8,
+      "n_sequences": 8
+    },
+    {
+      "component": "e7e4e845b9c2",
+      "papers": [
+        "10.1016/j.tibtech.2024.09.008"
+      ],
+      "n_assay_rows": 308,
+      "n_sequences": 36
+    },
+    {
+      "component": "13573d6a2f0f",
+      "papers": [
+        "10.1021/acsnano.1c04496"
+      ],
+      "n_assay_rows": 21,
+      "n_sequences": 3
+    },
+    {
+      "component": "e25751a6c18c",
+      "papers": [
+        "10.1021/jacsau.5c00947"
+      ],
+      "n_assay_rows": 6,
+      "n_sequences": 3
+    },
+    {
+      "component": "5f68760109d2",
+      "papers": [
+        "10.1038/s41467-025-60051-6"
+      ],
+      "n_assay_rows": 250,
+      "n_sequences": 50
+    },
+    {
+      "component": "3f3976d97f00",
+      "papers": [
+        "10.1038/s41551-024-01201-x"
+      ],
+      "n_assay_rows": 180,
+      "n_sequences": 53
+    },
+    {
+      "component": "bec0097430b1",
+      "papers": [
+        "10.1038/s41564-025-02061-0"
+      ],
+      "n_assay_rows": 375,
+      "n_sequences": 75
+    },
+    {
+      "component": "cc6b33b337ed",
+      "papers": [
+        "10.1038/s41564-026-02408-1"
+      ],
+      "n_assay_rows": 173,
+      "n_sequences": 59
+    },
+    {
+      "component": "7948587d34c9",
+      "papers": [
+        "10.1038/s41589-026-02269-z"
+      ],
+      "n_assay_rows": 21,
+      "n_sequences": 12
+    },
+    {
+      "component": "25b36f9b7705",
+      "papers": [
+        "10.1038/s42003-023-05254-7"
+      ],
+      "n_assay_rows": 104,
+      "n_sequences": 10
+    },
+    {
+      "component": "3344196f7579",
+      "papers": [
+        "10.1038/s42256-025-01119-2"
+      ],
+      "n_assay_rows": 34,
+      "n_sequences": 9
+    },
+    {
+      "component": "b47a1491cbd2",
+      "papers": [
+        "10.1038/s42256-026-01237-5"
+      ],
+      "n_assay_rows": 423,
+      "n_sequences": 86
+    },
+    {
+      "component": "74c8bf71cf22",
+      "papers": [
+        "10.3390/ijms26188914"
+      ],
+      "n_assay_rows": 6,
+      "n_sequences": 6
+    }
+  ],
+  "edges": [
+    [
+      "CELHFRQLPAVKARLLKLRIKWNRK",
+      "CELRFHQLPAVKARLLKLRIKWNRK"
+    ],
+    [
+      "CELHFRQLPAVKARLLKLRIKWNRK",
+      "CHELFRQLPAVKARLLKLRIKWNRK"
+    ],
+    [
+      "CELHFRQLPAVKARLLKLRIKWNRK",
+      "CHLEFRQLPAVKARLLKLRIKWNRK"
+    ],
+    [
+      "CHELFRQLPAVKARLLKLRIKWNRK",
+      "CHLEFRQLPAVKARLLKLRIKWNRK"
+    ],
+    [
+      "FIAKKLSLRWFRLNIRTLPKVKFPK",
+      "FIYAKLSLRWFRLNIRTLPKVKFPK"
+    ],
+    [
+      "FIAKKLSLRWFRLNIRTLPKVKFPK",
+      "WIAKKLSLRWFRLNIRTLPKVKFPK"
+    ],
+    [
+      "FIYAKLSLRWFRLNIRTLPKVKFPK",
+      "WIYAKLSLRWFRLNIRTLPKVKFPK"
+    ],
+    [
+      "FLPTTAQPTKKSTLKKRVCRLPRPETQKGRRRRARLRFMK",
+      "FLPTTAQPTKKSTLKKRVCRLPRPETQKGRRRRARLRFMKQFYK"
+    ],
+    [
+      "GHLLIGLIGKLTLKL",
+      "GHLLIRLIGKLTLKL"
+    ],
+    [
+      "GHLLIGLIGKLTLKL",
+      "GHLLISLIGKLTLKL"
+    ],
+    [
+      "GHLLIRLIGKLTLKL",
+      "GHLLISLIGKLTLKL"
+    ],
+    [
+      "GHLSIHLIGKLTLKL",
+      "GHLSLIHLIGKLTLKL"
+    ],
+    [
+      "HVALKAGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT",
+      "HVALKPGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT"
+    ],
+    [
+      "IASLHARSIARLLKIWRNVHQGLGLKW",
+      "IASLHARSIARLLKLWRNVHQGLGLKW"
+    ],
+    [
+      "IASLHARSIARLLKIWRNVHQGLGLKW",
+      "IASLHARSIARLLKRWINVHQGLGLKW"
+    ],
+    [
+      "IASLHARSIARLLKIWRNVHQGLGLKW",
+      "IASLHARSIARLLKRWLNVHQGLGLKW"
+    ],
+    [
+      "IASLHARSIARLLKLWRNVHQGLGLKW",
+      "IASLHARSIARLLKRWINVHQGLGLKW"
+    ],
+    [
+      "IASLHARSIARLLKLWRNVHQGLGLKW",
+      "IASLHARSIARLLKRWLNVHQGLGLKW"
+    ],
+    [
+      "IASLHARSIARLLKRWINVHQGLGLKW",
+      "IASLHARSIARLLKRWLNVHQGLGLKW"
+    ],
+    [
+      "IASLHARSIARLLKRWINVHQGLGLKW",
+      "IAWLHARSIARLLKRWINVHQGLGLKW"
+    ],
+    [
+      "IASLHARSIARLLKRWLNVHQGLGLKW",
+      "IAWLHARSIARLLKRWINVHQGLGLKW"
+    ],
+    [
+      "ILTLFIIFQLKISKL",
+      "LTLFIIFQLKISKL"
+    ],
+    [
+      "IQKLHARSIARLLKRWRPVHQELNLK",
+      "IQKLHARSIARLLKRWRPVHQLLELK"
+    ],
+    [
+      "IRKRILWLARALSLNNKF",
+      "IRKRLLWLARALSLNNKF"
+    ],
+    [
+      "IWARNLVRYVQWLKKKKVIW",
+      "IWARNLVRYVWGLKKKKVIW"
+    ],
+    [
+      "IWARNLVRYVWGLKKKKVIW",
+      "IWARNLVRYVWGLKKKKVW"
+    ],
+    [
+      "IWLLASQLIAVKARLIKHRIKWNRK",
+      "IWLLASQLIAVKARLLKHRIKWNRK"
+    ],
+    [
+      "KKKKLKKILKKLFQFIDQLDNDLQDIKKKK",
+      "KKKKLKKILKKLIQLIDQLDNDLQDIKKKK"
+    ],
+    [
+      "KNLSRIVQGLKKFKKKINIPVGIGPFANIK",
+      "KNLSRIVQGLKKFKKQIRIPVGIGPFANIK"
+    ],
+    [
+      "KTLKIIRLLCK",
+      "KTLKIIRLLFCK"
+    ],
+    [
+      "LFLKAQKIVHKLFSLSKRCHKQPLISLPRQRTSTYWLTRI",
+      "MKQLFLKAQKIVHKLFSLSKRCHKQPLISLPRQRTSTYWLTRI"
+    ],
+    [
+      "RKELHARQIARLHKLWRPVHQELWLK",
+      "RKELHARQIARLHKLWRPVHQWLELK"
+    ],
+    [
+      "RNLARYVWGLKLKKVIKIKVGIGRWANIK",
+      "RNLARYVWGLKLKKVIKIVGIGRWANIK"
+    ],
+    [
+      "RNLARYVWGLKLKKVIKIKVGIGRWANIK",
+      "RNLWRYVAGLKLKKVIKIKVGIGRWANIK"
+    ],
+    [
+      "RNLVRWVAGLKLKKKVIKIKVGIGRWANIK",
+      "RNLVRWVIGLKLKKKVIKIKVGIGRWANIK"
+    ],
+    [
+      "RNLVRWVAGLKLKKKVIKIKVGIGRWANIK",
+      "RNLWRYVAGLKLKKVIKIKVGIGRWANIK"
+    ],
+    [
+      "RRVKRFKKFFKKL",
+      "RRVKRFKKFFMKL"
+    ],
+    [
+      "VQWDAIRVRVIR",
+      "VQWEAIRVRVIR"
+    ],
+    [
+      "VQWDAIRVRVIR",
+      "VQWRAIRVRVIR"
+    ],
+    [
+      "VQWEAIRVRVIR",
+      "VQWRAIRVRVIR"
+    ],
+    [
+      "VQWRAIRDRVIR",
+      "VQWRAIRVRVIR"
+    ],
+    [
+      "VQWRAIRVRDIR",
+      "VQWRAIRVRKIR"
+    ],
+    [
+      "VQWRAIRVRDIR",
+      "VQWRAIRVRRIR"
+    ],
+    [
+      "VQWRAIRVRDIR",
+      "VQWRAIRVRVIR"
+    ],
+    [
+      "VQWRAIRVRKIR",
+      "VQWRAIRVRRIR"
+    ],
+    [
+      "VQWRAIRVRKIR",
+      "VQWRAIRVRVIR"
+    ],
+    [
+      "VQWRAIRVRRIR",
+      "VQWRAIRVRVIR"
+    ],
+    [
+      "VQWRAIRVRVIR",
+      "VQWRAIRVRVIT"
+    ],
+    [
+      "VQWRAIRVRVIR",
+      "VQWRAIRVRVKR"
+    ],
+    [
+      "VQWRAIRVRVIR",
+      "VQWRAWRVRVIR"
+    ],
+    [
+      "WIAKKLSLRWFRLNIRTLPKVKFPK",
+      "WIYAKLSLRWFRLNIRTLPKVKFPK"
+    ]
+  ]
+}

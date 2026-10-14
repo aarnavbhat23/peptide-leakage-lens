@@ -1,0 +1,16 @@
+{
+  "question": "How much does measured low-MIC classification change when assay rows, peptide sequences, papers or joint source/sequence components define evaluation folds?",
+  "source": "public positive-only assay table, pinned to commit 5ac295c08f48aef43c991ba40a706f0e2fedb5b7",
+  "endpoint": "reported MIC <= 16 uM; label only exact values or censoring bounds that determine this event",
+  "negative_class": "above the MIC threshold, not biologically inactive",
+  "exclusions": ["mass units without chemistry-specific molecular weight", "missing MIC", "censoring spanning the threshold", "missing paper DOI", "noncanonical sequence"],
+  "representations": ["20 amino-acid frequencies plus length", "frozen ESM-2 8M final-layer residue mean"],
+  "classifier": "StandardScaler + LogisticRegression(C=1, class_weight=balanced, max_iter=2000); fit independently inside each fold",
+  "splits": ["five-fold stratified random row", "five-fold sequence grouped", "five-fold paper grouped", "five-fold joint paper/exact-sequence component grouped", "five-fold joint paper/edit-similarity>=0.9 component grouped"],
+  "seed": 20261014,
+  "fold_construction": "Canonicalize grouped partitions by sorted member row IDs, so group renaming cannot change fold assignment; split algorithms and model settings are not chosen for performance.",
+  "primary_metrics": ["pooled out-of-fold AUROC", "balanced accuracy", "average precision", "test-row exact-sequence overlap with training"],
+  "uncertainty": "2000 paper-block bootstrap replicates over fixed out-of-fold predictions; this is not uncertainty from retraining",
+  "comparisons": "descriptive; changing group constraints changes training distributions as well as overlap",
+  "claim_boundary": "Pooled organisms, retrospective source data and positive-only selection prevent interpretation as a deployable antimicrobial classifier. No significance or field-first claims are planned."
+}

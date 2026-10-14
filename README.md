@@ -1,53 +1,49 @@
 # Peptide Leakage Lens
 
-Audit cross-split sequence neighbors, chemistry collisions and conflicting labels before benchmarking peptide models.
+A peptide-model evaluation project with a large trained-model benchmark, uncertainty analysis and source/split audits.
 
-**Status: working research prototype.** The bundled input is a synthetic fixture for exercising code. Its report is not evidence about real biological data or real model performance.
+The [larger benchmark](large_study/README.md) uses **49,172 GRAMPA records, 6,391 peptides and 750 target organisms**. A frozen **ESM-2 35M transformer** plus three trained species-conditioned neural heads reaches **0.685 test RMSE in log10 MIC units**, essentially tied with a gradient-boosting baseline. It also shows how the calibration unit changes simultaneous coverage across an entire peptide component: **62.4% with row calibration versus 91.4% with component calibration**, at the cost of wider intervals.
 
-## Try it
+![Large model benchmark](large_study/results/benchmark.png)
 
-Python 3.13 was used for local validation. From this repository:
+[Dataset builder and card](large_study/DATASET_CARD.md) · [Trained checkpoints](large_study/results/checkpoints) · [Run the model](large_study/README.md#run-the-released-prediction-heads) · [Test predictions](large_study/results/test-predictions.csv)
+
+## The smaller source-split study
+
+On a public 1,947-row molar-unit assay subset, a frozen ESM-2 8M probe scores **0.679 AUROC with random row splits**, **0.594 with sequence groups**, and **0.597 with paper groups**. In the random split, **92.7%** of held-out rows have a peptide sequence already in training. These are pooled-organism, retrospective low-MIC results; they do not establish an antimicrobial classifier.
+
+![Evaluation splits and exact overlap](results/split-study/split-sensitivity.png)
+
+[Read the methods and limitations](results/split-study/REPORT.md) · [Raw predictions](results/split-study/predictions.csv) · [Run manifest](results/split-study/report.json) · [Fixed study protocol](study-protocol.json)
+
+## Run the audit
+
+The small audit command needs only Python:
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
 python tool.py examples/input.json --output report.json
 python -m unittest discover -s tests -v
 ```
 
-See [`examples/input.json`](examples/input.json) for a complete input and [`examples/report.json`](examples/report.json) for the actual output from that fixture. [`docs/SCHEMA.md`](docs/SCHEMA.md) describes the fields and interpretation. The report records the input SHA-256. No API key is needed for this demo.
+It produces sequence-pair and chemistry/label ledgers. The [schema](docs/SCHEMA.md) defines the edit-distance screen and its limits. No flags is not proof of homology-free evaluation. The [complete-table exact cross-paper audit](results/public-assay/FINDINGS.md) is a separate application on 2,449 rows; its denominator differs from the fitted study’s eligible subset.
 
-## Contribution and related work
+## Reproduce the fitted study
 
-An inspectable sequence-pair ledger that combines a simple identity screen with stereochemistry and terminal-modification checks.
+Install [bio-evidence](https://github.com/aarnavbhat23/bio-evidence) and the optional study dependencies:
 
-Sequence leakage benchmarks already exist. This is a lightweight audit utility, not a new homology algorithm. Related primary source: [https://github.com/afaquealam-nitp/pdb-homology-leakage-benchmark](https://github.com/afaquealam-nitp/pdb-homology-leakage-benchmark). The related-work scan is preliminary; no claim of being the first implementation is made.
+```bash
+python -m pip install -r requirements-study.txt
+python -m pip install 'bio-evidence @ git+https://github.com/aarnavbhat23/bio-evidence.git'
+HF_HOME=./cache python run_study.py --device cpu
+python plot_study.py
+```
 
-## Next experiment
+The source table and model revision are pinned. `--device cuda` and `--device mps` are available; the included run used CPU. `--skip-esm` runs the composition baseline only. Classifier settings are fixed across folds. Whole-paper bootstrap intervals are computed from saved out-of-fold predictions; no model is fitted by the plotting script.
 
-Collect independently sourced positive and negative assays; use MMseqs2 clusters; compare composition and frozen ESM probes on held-out papers.
+## What changed in the code
 
-This milestone is planned, not completed. Preregister splits, metrics and exclusions before inspecting test results. Preserve source licenses and version identifiers when adding external data.
+The study derives threshold labels only when exact values or censoring bounds determine them. It builds joint paper/sequence components without splitting a source across folds. Group labels are canonicalized by member row IDs, preventing equivalent partitions from changing fold assignments merely because they were renamed. All exclusions, graph edges and predictions are retained.
 
-## Why this project
+The joint constraints add no source merges in this eligible subset. That is reported explicitly. This is a specific reproducible analysis built from established methods; it is not a novel homology algorithm or a claim of model leadership.
 
-Protein ML teams; builds on your peptide work. This describes technical relevance, not company affiliation, a hiring prediction or a claim that the company requested the tool.
-
-## Validation
-
-The initial local run passed 8 regression tests and the documented CLI example. CI repeats the core tests and example on Python 3.13. Network/model inference is not run in CI.
-
-## Limitations and authorship
-
-See the schema notes for method-specific limitations. This software has not been independently validated by researchers and does not establish experimental activity, clinical usefulness or model superiority.
-
-Initial implementation and toy fixtures were generated with Codex. Maintainer: Aarnav Bhat. Real-data studies and human review remain future work unless a separately documented result explicitly says otherwise. Code and original synthetic fixtures are MIT licensed; externally sourced datasets and model weights retain their own licenses.
-
-## Contributing
-
-Useful contributions include a small reproducible failure case, an independently reviewed dataset adapter, or a metric correction. Include the input schema, expected behavior and source provenance. Avoid committing personal data, credentials, model caches or data without redistribution rights.
-
-## Real public-data application
-
-The initial release includes an exact cross-paper audit of the maintainer's existing public assay table. See [the findings](results/public-assay/FINDINGS.md) and [report](results/public-assay/report.json). Reproduce with `python audit_public_data.py`. Chemistry is unspecified in that source and is never guessed.
+Initial tooling and this study were developed with Codex. Aarnav Bhat maintains the project. No independent researcher review, wet-lab validation or downstream adoption is claimed. Code is MIT licensed; external sources and model weights retain their own terms.

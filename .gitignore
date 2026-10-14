@@ -7,3 +7,5 @@ __pycache__/
 models/
 cache/
 local-data/
+large_study/data/records.csv.gz
+large_study/data/embeddings.npz

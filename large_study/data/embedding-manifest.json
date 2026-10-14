@@ -1,0 +1,10 @@
+{
+  "model": "facebook/esm2_t12_35M_UR50D",
+  "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+  "n_sequences": 6391,
+  "dimension": 480,
+  "device": "mps",
+  "pooling": "final-layer residue mean; BOS/EOS/padding excluded",
+  "torch": "2.14.1",
+  "file_sha256": "8b48d911f11fb20c11403f4892b62e4b43095995ab5b7f99d97bd619c3adaedb"
+}

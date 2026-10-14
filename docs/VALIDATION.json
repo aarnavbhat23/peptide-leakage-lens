@@ -1,6 +1,8 @@
 {
-  "project": "peptide-leakage-lens",
-  "tests": 8,
-  "passed": true,
-  "demo_exit_code": 0
+  "local_regression_tests": 16,
+  "smoke_predictions": "released three-head model loaded and predicted on CPU with pinned 35M encoder",
+  "large_training": "three seeds on Apple M3 MPS; early stopping on validation NLL",
+  "source_split_study": "ten model/protocol runs, 2000 paper-block bootstrap draws each",
+  "large_comparison": "five fixed baselines/models and 2000 paired test-component bootstrap draws",
+  "independent_review": false
 }

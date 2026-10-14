@@ -1,0 +1,32 @@
+{
+  "source_url": "https://raw.githubusercontent.com/zswitten/Antimicrobial-Peptides/a6819dcd671291af8013627a2d2fbc32858346bc/data/grampa.csv",
+  "source_commit": "a6819dcd671291af8013627a2d2fbc32858346bc",
+  "source_sha256": "9e33122afb3bdd169e8bed620b1040bf1601d60cf25b6c8c8d9870bf37522b6f",
+  "n_source_records": 51345,
+  "n_retained": 49172,
+  "n_unique_sequences": 6391,
+  "n_organisms": 750,
+  "n_components": 2775,
+  "n_similarity_edges": 14358,
+  "split_counts": {
+    "validation": 6799,
+    "train": 31561,
+    "calibration": 4339,
+    "test": 6473
+  },
+  "exclusion_counts": {
+    "length_or_noncanonical": 2173
+  },
+  "seed": 20261014,
+  "similarity_metric": "1 - unit-cost Levenshtein distance / max length; threshold .8; transitive connected components",
+  "target_definition": "The upstream loader applies log10 to MIC expressed in uM; value is modeled as log10(MIC/uM), not raw MIC or negative-log pMIC.",
+  "target_source_code": "https://github.com/zswitten/Antimicrobial-Peptides/blob/a6819dcd671291af8013627a2d2fbc32858346bc/src/load_data.py",
+  "limitations": [
+    "Original censoring operators are not present in this processed source; no censor-aware claim can be made.",
+    "Database provenance is not publication provenance; no paper-held-out claim.",
+    "Modification flags are inherited annotations, not complete molecular identities.",
+    "Edit-component separation is not certified homology separation.",
+    "Rows from multiple databases may repeat the same underlying experiments; independent-assay count is unknown."
+  ],
+  "release_note": "Build recipe, split ledger and result artifacts are public. The source-derived record snapshot stays local; underlying database terms are not relicensed as MIT."
+}

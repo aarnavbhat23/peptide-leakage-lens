@@ -1,0 +1,647 @@
+{
+  "runs": [
+    {
+      "scheme": "random_row",
+      "model": "composition_length",
+      "auc": 0.6114416805590567,
+      "average_precision": 0.6293263347310635,
+      "balanced_accuracy_at_0_5": 0.5852083646662332,
+      "exact_sequence_overlap_fraction": 0.9270672829994864,
+      "auc_95_interval": {
+        "low": 0.5654739845440792,
+        "high": 0.6449416296336309,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.5307692307692308,
+          "auc": 0.6202845753807977,
+          "exact_sequence_overlap_fraction": 0.9205128205128205,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 1,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.5307692307692308,
+          "auc": 0.6185158786726854,
+          "exact_sequence_overlap_fraction": 0.9128205128205128,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 2,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.532133676092545,
+          "auc": 0.6316955990869035,
+          "exact_sequence_overlap_fraction": 0.9203084832904884,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 3,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5295629820051414,
+          "auc": 0.6172078094328611,
+          "exact_sequence_overlap_fraction": 0.9280205655526992,
+          "n_shared_papers": 15
+        },
+        {
+          "fold": 4,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5295629820051414,
+          "auc": 0.5680142182609156,
+          "exact_sequence_overlap_fraction": 0.9537275064267352,
+          "n_shared_papers": 13
+        }
+      ]
+    },
+    {
+      "scheme": "random_row",
+      "model": "esm2_8m_frozen",
+      "auc": 0.6791737011233242,
+      "average_precision": 0.6974050436391062,
+      "balanced_accuracy_at_0_5": 0.6212985695251451,
+      "exact_sequence_overlap_fraction": 0.9270672829994864,
+      "auc_95_interval": {
+        "low": 0.6234392272230761,
+        "high": 0.7299107231836951,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.5307692307692308,
+          "auc": 0.6833504923312478,
+          "exact_sequence_overlap_fraction": 0.9205128205128205,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 1,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.5307692307692308,
+          "auc": 0.7070431086824529,
+          "exact_sequence_overlap_fraction": 0.9128205128205128,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 2,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.532133676092545,
+          "auc": 0.6952274778361734,
+          "exact_sequence_overlap_fraction": 0.9203084832904884,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 3,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5295629820051414,
+          "auc": 0.6581914159902382,
+          "exact_sequence_overlap_fraction": 0.9280205655526992,
+          "n_shared_papers": 15
+        },
+        {
+          "fold": 4,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5295629820051414,
+          "auc": 0.6549949599448247,
+          "exact_sequence_overlap_fraction": 0.9537275064267352,
+          "n_shared_papers": 13
+        }
+      ]
+    },
+    {
+      "scheme": "sequence",
+      "model": "composition_length",
+      "auc": 0.592138319483309,
+      "average_precision": 0.6105309341928989,
+      "balanced_accuracy_at_0_5": 0.5743505881405946,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.5437746045091709,
+        "high": 0.6297755038311955,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.45384615384615384,
+          "auc": 0.5717487599798414,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 13
+        },
+        {
+          "fold": 1,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.517948717948718,
+          "auc": 0.612729092058142,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 13
+        },
+        {
+          "fold": 2,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5115681233933161,
+          "auc": 0.5970774927267919,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 3,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5938303341902313,
+          "auc": 0.577675489067894,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 13
+        },
+        {
+          "fold": 4,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5758354755784062,
+          "auc": 0.6050459956709956,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 15
+        }
+      ]
+    },
+    {
+      "scheme": "sequence",
+      "model": "esm2_8m_frozen",
+      "auc": 0.5938011697145192,
+      "average_precision": 0.6184979670042738,
+      "balanced_accuracy_at_0_5": 0.5696591262940046,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.5532963864129488,
+        "high": 0.6299265548511722,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.45384615384615384,
+          "auc": 0.6096257393703085,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 13
+        },
+        {
+          "fold": 1,
+          "n_train": 1557,
+          "n_test": 390,
+          "test_positive_fraction": 0.517948717948718,
+          "auc": 0.605724668211502,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 13
+        },
+        {
+          "fold": 2,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5115681233933161,
+          "auc": 0.6398704046548532,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 14
+        },
+        {
+          "fold": 3,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5938303341902313,
+          "auc": 0.47375198641021427,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 13
+        },
+        {
+          "fold": 4,
+          "n_train": 1558,
+          "n_test": 389,
+          "test_positive_fraction": 0.5758354755784062,
+          "auc": 0.6390827922077923,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 15
+        }
+      ]
+    },
+    {
+      "scheme": "paper",
+      "model": "composition_length",
+      "auc": 0.5171866692368471,
+      "average_precision": 0.5479672824050391,
+      "balanced_accuracy_at_0_5": 0.5066000326215204,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.4480208015401433,
+        "high": 0.5640225603304192,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1524,
+          "n_test": 423,
+          "test_positive_fraction": 0.5342789598108747,
+          "auc": 0.5770854858272315,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 1,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.5748031496062992,
+          "auc": 0.5707198827442358,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 2,
+          "n_train": 1567,
+          "n_test": 380,
+          "test_positive_fraction": 0.4421052631578947,
+          "auc": 0.48462769541778977,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 3,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.6089238845144357,
+          "auc": 0.47272043508447126,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 4,
+          "n_train": 1565,
+          "n_test": 382,
+          "test_positive_fraction": 0.49214659685863876,
+          "auc": 0.5360139284930906,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        }
+      ]
+    },
+    {
+      "scheme": "paper",
+      "model": "esm2_8m_frozen",
+      "auc": 0.5968536119860786,
+      "average_precision": 0.6180484015409459,
+      "balanced_accuracy_at_0_5": 0.578474880370106,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.5365224091504527,
+        "high": 0.6347482900111235,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1524,
+          "n_test": 423,
+          "test_positive_fraction": 0.5342789598108747,
+          "auc": 0.5930888100265036,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 1,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.5748031496062992,
+          "auc": 0.605558374203732,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 2,
+          "n_train": 1567,
+          "n_test": 380,
+          "test_positive_fraction": 0.4421052631578947,
+          "auc": 0.5756261230907457,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 3,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.6089238845144357,
+          "auc": 0.5467195093728303,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 4,
+          "n_train": 1565,
+          "n_test": 382,
+          "test_positive_fraction": 0.49214659685863876,
+          "auc": 0.55819532792279,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        }
+      ]
+    },
+    {
+      "scheme": "joint_exact",
+      "model": "composition_length",
+      "auc": 0.5171866692368471,
+      "average_precision": 0.5479672824050391,
+      "balanced_accuracy_at_0_5": 0.5066000326215204,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.4480208015401433,
+        "high": 0.5640225603304192,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1524,
+          "n_test": 423,
+          "test_positive_fraction": 0.5342789598108747,
+          "auc": 0.5770854858272315,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 1,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.5748031496062992,
+          "auc": 0.5707198827442358,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 2,
+          "n_train": 1567,
+          "n_test": 380,
+          "test_positive_fraction": 0.4421052631578947,
+          "auc": 0.48462769541778977,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 3,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.6089238845144357,
+          "auc": 0.47272043508447126,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 4,
+          "n_train": 1565,
+          "n_test": 382,
+          "test_positive_fraction": 0.49214659685863876,
+          "auc": 0.5360139284930906,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        }
+      ]
+    },
+    {
+      "scheme": "joint_exact",
+      "model": "esm2_8m_frozen",
+      "auc": 0.5968536119860786,
+      "average_precision": 0.6180484015409459,
+      "balanced_accuracy_at_0_5": 0.578474880370106,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.5365224091504527,
+        "high": 0.6347482900111235,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1524,
+          "n_test": 423,
+          "test_positive_fraction": 0.5342789598108747,
+          "auc": 0.5930888100265036,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 1,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.5748031496062992,
+          "auc": 0.605558374203732,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 2,
+          "n_train": 1567,
+          "n_test": 380,
+          "test_positive_fraction": 0.4421052631578947,
+          "auc": 0.5756261230907457,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 3,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.6089238845144357,
+          "auc": 0.5467195093728303,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 4,
+          "n_train": 1565,
+          "n_test": 382,
+          "test_positive_fraction": 0.49214659685863876,
+          "auc": 0.55819532792279,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        }
+      ]
+    },
+    {
+      "scheme": "joint_edit_0.9",
+      "model": "composition_length",
+      "auc": 0.5171866692368471,
+      "average_precision": 0.5479672824050391,
+      "balanced_accuracy_at_0_5": 0.5066000326215204,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.4480208015401433,
+        "high": 0.5640225603304192,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1524,
+          "n_test": 423,
+          "test_positive_fraction": 0.5342789598108747,
+          "auc": 0.5770854858272315,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 1,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.5748031496062992,
+          "auc": 0.5707198827442358,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 2,
+          "n_train": 1567,
+          "n_test": 380,
+          "test_positive_fraction": 0.4421052631578947,
+          "auc": 0.48462769541778977,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 3,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.6089238845144357,
+          "auc": 0.47272043508447126,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 4,
+          "n_train": 1565,
+          "n_test": 382,
+          "test_positive_fraction": 0.49214659685863876,
+          "auc": 0.5360139284930906,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        }
+      ]
+    },
+    {
+      "scheme": "joint_edit_0.9",
+      "model": "esm2_8m_frozen",
+      "auc": 0.5968536119860786,
+      "average_precision": 0.6180484015409459,
+      "balanced_accuracy_at_0_5": 0.578474880370106,
+      "exact_sequence_overlap_fraction": 0.0,
+      "auc_95_interval": {
+        "low": 0.5365224091504527,
+        "high": 0.6347482900111235,
+        "n_valid_bootstrap": 2000,
+        "method": "paper-block bootstrap of fixed OOF predictions"
+      },
+      "folds": [
+        {
+          "fold": 0,
+          "n_train": 1524,
+          "n_test": 423,
+          "test_positive_fraction": 0.5342789598108747,
+          "auc": 0.5930888100265036,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 1,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.5748031496062992,
+          "auc": 0.605558374203732,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 2,
+          "n_train": 1567,
+          "n_test": 380,
+          "test_positive_fraction": 0.4421052631578947,
+          "auc": 0.5756261230907457,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 3,
+          "n_train": 1566,
+          "n_test": 381,
+          "test_positive_fraction": 0.6089238845144357,
+          "auc": 0.5467195093728303,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        },
+        {
+          "fold": 4,
+          "n_train": 1565,
+          "n_test": 382,
+          "test_positive_fraction": 0.49214659685863876,
+          "auc": 0.55819532792279,
+          "exact_sequence_overlap_fraction": 0.0,
+          "n_shared_papers": 0
+        }
+      ]
+    }
+  ],
+  "manifest": {
+    "source_url": "https://raw.githubusercontent.com/aarnavbhat23/spear-wetlab-false-positive-audit/5ac295c08f48aef43c991ba40a706f0e2fedb5b7/data/df_wetlab_validated.tsv",
+    "source_commit": "5ac295c08f48aef43c991ba40a706f0e2fedb5b7",
+    "source_sha256": "8dd11b6a5795fd941ffc2b0a82c506a6def39c91051f1cca36b0db8359330f04",
+    "protocol_sha256": "a8dd27aeeb15124969547b09146e3ab6208025ff2ed1bac0ce0864252ef7f3e5",
+    "n_source_rows": 2449,
+    "n_retained": 1947,
+    "n_sequences": 447,
+    "n_papers": 16,
+    "n_positive": 1033,
+    "n_above_threshold": 914,
+    "exclusions": {
+      "missing_or_unparsed": 107,
+      "unsupported_mass_unit": 395
+    },
+    "n_edit_similarity_edges": 51,
+    "n_joint_exact_components": 16,
+    "n_joint_near_components": 16,
+    "model": "facebook/esm2_t6_8M_UR50D",
+    "model_revision": "c731040fcd8d73dceaa04b0a8e6329b345b0f5df",
+    "group_label_policy": "Canonicalize group partitions by sorted member row IDs before splitting; equivalent partitions give identical folds.",
+    "python": "3.13.5",
+    "device": "cpu",
+    "seed": 20261014,
+    "packages": {
+      "numpy": "2.4.4",
+      "scikit-learn": "1.8.0",
+      "rapidfuzz": "3.14.6",
+      "torch": "2.14.1",
+      "transformers": "5.19.0"
+    },
+    "claim_boundary": "Pooled-assay threshold task on a positive-only source. Not antimicrobial vs non-antimicrobial classification. Organism/lab confounding, unknown chemistry and pretraining overlap are unresolved. Protocol fixed locally before the run, not externally preregistered."
+  }
+}

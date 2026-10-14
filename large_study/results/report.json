@@ -1,0 +1,163 @@
+{
+  "dataset": {
+    "source_url": "https://raw.githubusercontent.com/zswitten/Antimicrobial-Peptides/a6819dcd671291af8013627a2d2fbc32858346bc/data/grampa.csv",
+    "source_commit": "a6819dcd671291af8013627a2d2fbc32858346bc",
+    "source_sha256": "9e33122afb3bdd169e8bed620b1040bf1601d60cf25b6c8c8d9870bf37522b6f",
+    "n_source_records": 51345,
+    "n_retained": 49172,
+    "n_unique_sequences": 6391,
+    "n_organisms": 750,
+    "n_components": 2775,
+    "n_similarity_edges": 14358,
+    "split_counts": {
+      "validation": 6799,
+      "train": 31561,
+      "calibration": 4339,
+      "test": 6473
+    },
+    "exclusion_counts": {
+      "length_or_noncanonical": 2173
+    },
+    "seed": 20261014,
+    "similarity_metric": "1 - unit-cost Levenshtein distance / max length; threshold .8; transitive connected components",
+    "target_definition": "The upstream loader applies log10 to MIC expressed in uM; value is modeled as log10(MIC/uM), not raw MIC or negative-log pMIC.",
+    "target_source_code": "https://github.com/zswitten/Antimicrobial-Peptides/blob/a6819dcd671291af8013627a2d2fbc32858346bc/src/load_data.py",
+    "limitations": [
+      "Original censoring operators are not present in this processed source; no censor-aware claim can be made.",
+      "Database provenance is not publication provenance; no paper-held-out claim.",
+      "Modification flags are inherited annotations, not complete molecular identities.",
+      "Edit-component separation is not certified homology separation.",
+      "Rows from multiple databases may repeat the same underlying experiments; independent-assay count is unknown."
+    ],
+    "release_note": "Build recipe, split ledger and result artifacts are public. The source-derived record snapshot stays local; underlying database terms are not relicensed as MIT."
+  },
+  "encoder": {
+    "model": "facebook/esm2_t12_35M_UR50D",
+    "revision": "6fbf070e65b0b7291e7bbcd451118c216cff79d8",
+    "n_sequences": 6391,
+    "dimension": 480,
+    "device": "mps",
+    "pooling": "final-layer residue mean; BOS/EOS/padding excluded",
+    "torch": "2.14.1",
+    "file_sha256": "8b48d911f11fb20c11403f4892b62e4b43095995ab5b7f99d97bd619c3adaedb"
+  },
+  "training": [
+    {
+      "seed": 20261014,
+      "epochs": 9,
+      "best_validation_nll": 0.41131356358528137,
+      "trainable_parameters": 191970,
+      "training_seconds": 4.038515791296959
+    },
+    {
+      "seed": 20261015,
+      "epochs": 9,
+      "best_validation_nll": 0.39892449975013733,
+      "trainable_parameters": 191970,
+      "training_seconds": 2.314994000364095
+    },
+    {
+      "seed": 20261016,
+      "epochs": 9,
+      "best_validation_nll": 0.42244645953178406,
+      "trainable_parameters": 191970,
+      "training_seconds": 2.2559618749655783
+    }
+  ],
+  "device": "mps",
+  "max_epochs": 40,
+  "test_metrics": {
+    "species_mean": {
+      "n": 6473,
+      "mae_log10_uM": 0.6190313425525505,
+      "rmse_log10_uM": 0.774403986725929,
+      "pearson": 0.2185605855514071,
+      "r_squared": 0.023725259581486413
+    },
+    "composition_chemistry_species_ridge": {
+      "n": 6473,
+      "mae_log10_uM": 0.5678777041838672,
+      "rmse_log10_uM": 0.7125246410769388,
+      "pearson": 0.4176761039629361,
+      "r_squared": 0.17351177861542144
+    },
+    "composition_chemistry_species_hist_gradient_boosting": {
+      "n": 6473,
+      "mae_log10_uM": 0.5429029323561677,
+      "rmse_log10_uM": 0.6888426960140567,
+      "pearson": 0.4786656467062659,
+      "r_squared": 0.22753820635234723
+    },
+    "esm35m_neural_ensemble": {
+      "n": 6473,
+      "mae_log10_uM": 0.5457850098609924,
+      "rmse_log10_uM": 0.6847827054040787,
+      "pearson": 0.4904504418373108,
+      "r_squared": 0.2366170883178711
+    },
+    "esm35m_chemistry_species_ridge": {
+      "n": 6473,
+      "mae_log10_uM": 0.5918494451328619,
+      "rmse_log10_uM": 0.7571786192510781,
+      "pearson": 0.378714090787172,
+      "r_squared": 0.06667354787189439
+    }
+  },
+  "calibration": {
+    "nominal_coverage": 0.9,
+    "n_calibration_components": 278,
+    "row_quantile": 1.6529266834259033,
+    "component_max_quantile": 2.5764267444610596
+  },
+  "test_intervals": {
+    "row_calibrated": {
+      "row_coverage": 0.8697667233122199,
+      "component_simultaneous_coverage": 0.6235011990407674,
+      "n_components": 417,
+      "median_interval_width_log10_uM": 1.9819791316986084
+    },
+    "component_calibrated": {
+      "row_coverage": 0.9809979916576549,
+      "component_simultaneous_coverage": 0.9136690647482014,
+      "n_components": 417,
+      "median_interval_width_log10_uM": 3.089322805404663
+    }
+  },
+  "test_unknown_organism_rows": 83,
+  "protocol": "Fixed architecture/settings; choose checkpoints by validation NLL; interval multipliers use calibration only; test split is not used to select a model.",
+  "claim_boundary": "Retrospective point-valued source; no censor-aware, clinical, certified homology-free, publication-held-out or unseen-species performance claim. Component-level conformal interpretation requires exchangeable components; source/lab dependencies remain unresolved.",
+  "chemistry_strata": {
+    "modification_recorded": {
+      "n": 5967,
+      "mae_log10_uM": 0.54591304063797,
+      "rmse_log10_uM": 0.6870538607796541,
+      "pearson": 0.5018370151519775,
+      "r_squared": 0.24685066938400269
+    },
+    "modification_unknown": {
+      "n": 506,
+      "mae_log10_uM": 0.5442742705345154,
+      "rmse_log10_uM": 0.6574082824788764,
+      "pearson": 0.2769242525100708,
+      "r_squared": 0.06766170263290405
+    },
+    "unusual_modification": {
+      "n": 471,
+      "mae_log10_uM": 0.6021127104759216,
+      "rmse_log10_uM": 0.8139713609751463,
+      "pearson": 0.4281022548675537,
+      "r_squared": 0.17303121089935303
+    }
+  },
+  "baseline_note": "Same-representation ridge(alpha=10) added as a fixed comparator after initial head training. No head or hyperparameter was selected using this test comparison.",
+  "paired_component_bootstrap": {
+    "comparison": "neural RMSE minus gradient-boosting RMSE",
+    "replicates": 2000,
+    "estimate": -0.004059995357867385,
+    "interval_95": [
+      -0.021543853925484482,
+      0.013879945530296643
+    ],
+    "limitations": "Fixed fitted models; resamples test components only; excludes retraining and source/lab uncertainty."
+  }
+}
