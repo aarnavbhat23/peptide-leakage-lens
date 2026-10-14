@@ -1,0 +1,56 @@
+{
+  "n_rows": 4,
+  "n_unique_sequences": 3,
+  "threshold": 0.85,
+  "screened_sequence_pairs": 4,
+  "cross_split_pairs": [
+    {
+      "left": "p1",
+      "right": "p2",
+      "splits": [
+        "train",
+        "test"
+      ],
+      "edit_similarity": 1.0,
+      "same_chemistry": false
+    },
+    {
+      "left": "p1",
+      "right": "p3",
+      "splits": [
+        "train",
+        "test"
+      ],
+      "edit_similarity": 0.875,
+      "same_chemistry": true
+    }
+  ],
+  "affected_ids": [
+    "p1",
+    "p2",
+    "p3"
+  ],
+  "chemistry_or_label_collisions": [
+    {
+      "sequence": "KLLKLLKK",
+      "ids": [
+        "p1",
+        "p2"
+      ],
+      "chemistries": [
+        "all-D; C-amidated",
+        "all-L; free termini"
+      ],
+      "labels": [
+        "0",
+        "1"
+      ]
+    }
+  ],
+  "interpretation": "Edit-distance screen only; absence of flags does not establish absence of homology or pretraining contamination.",
+  "provenance": {
+    "input_sha256": "0d04238d0e3675428286983e9dd67b6b0f48bd8cebdce635959fd86c250bd43c",
+    "python": "3.13.5",
+    "data_kind": "synthetic fixture; no scientific performance claims"
+  }
+}

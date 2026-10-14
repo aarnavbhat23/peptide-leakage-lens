@@ -1,0 +1,81 @@
+{
+  "n_rows": 601,
+  "n_unique_sequences": 596,
+  "threshold": 1.0,
+  "screened_sequence_pairs": 5925,
+  "cross_split_pairs": [
+    {
+      "left": "source-row-2444",
+      "right": "source-row-796",
+      "splits": [
+        "10.3390/ijms26188914",
+        "10.1038/s41551-021-00801-1"
+      ],
+      "edit_similarity": 1.0,
+      "same_chemistry": null
+    },
+    {
+      "left": "source-row-2445",
+      "right": "source-row-814",
+      "splits": [
+        "10.3390/ijms26188914",
+        "10.1038/s41551-021-00801-1"
+      ],
+      "edit_similarity": 1.0,
+      "same_chemistry": null
+    },
+    {
+      "left": "source-row-2446",
+      "right": "source-row-816",
+      "splits": [
+        "10.3390/ijms26188914",
+        "10.1038/s41551-021-00801-1"
+      ],
+      "edit_similarity": 1.0,
+      "same_chemistry": null
+    },
+    {
+      "left": "source-row-1034",
+      "right": "source-row-2448",
+      "splits": [
+        "10.1038/s41551-021-00801-1",
+        "10.3390/ijms26188914"
+      ],
+      "edit_similarity": 1.0,
+      "same_chemistry": null
+    },
+    {
+      "left": "source-row-1068",
+      "right": "source-row-2449",
+      "splits": [
+        "10.1038/s41551-021-00801-1",
+        "10.3390/ijms26188914"
+      ],
+      "edit_similarity": 1.0,
+      "same_chemistry": null
+    }
+  ],
+  "affected_ids": [
+    "source-row-1034",
+    "source-row-1068",
+    "source-row-2444",
+    "source-row-2445",
+    "source-row-2446",
+    "source-row-2448",
+    "source-row-2449",
+    "source-row-796",
+    "source-row-814",
+    "source-row-816"
+  ],
+  "chemistry_or_label_collisions": [],
+  "interpretation": "Edit-distance screen only; absence of flags does not establish absence of homology or pretraining contamination.",
+  "source": {
+    "url": "https://raw.githubusercontent.com/aarnavbhat23/spear-wetlab-false-positive-audit/5ac295c08f48aef43c991ba40a706f0e2fedb5b7/data/df_wetlab_validated.tsv",
+    "commit": "5ac295c08f48aef43c991ba40a706f0e2fedb5b7",
+    "sha256": "8dd11b6a5795fd941ffc2b0a82c506a6def39c91051f1cca36b0db8359330f04",
+    "n_original_assay_rows": 2449,
+    "n_sequence_paper_groups": 601,
+    "n_papers": 22
+  },
+  "study_note": "Repeated peptides across papers are valid assays. This is relevant to a paper-held-out novelty claim, not evidence of false positives. Chemistry is absent in this five-column source and is never inferred."
+}

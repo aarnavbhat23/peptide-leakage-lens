@@ -1,0 +1,7263 @@
+{
+  "data_kind": "real public assay table; paper-as-split diagnostic; chemistry unspecified",
+  "similarity_threshold": 1.0,
+  "rows": [
+    {
+      "id": "source-row-1",
+      "sequence": "VQWDAIRVRVIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1
+      ]
+    },
+    {
+      "id": "source-row-2",
+      "sequence": "VQWEAIRVRVIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2
+      ]
+    },
+    {
+      "id": "source-row-3",
+      "sequence": "VQWRAIRDRVIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        3
+      ]
+    },
+    {
+      "id": "source-row-4",
+      "sequence": "VQWRAIRVRDIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        4
+      ]
+    },
+    {
+      "id": "source-row-5",
+      "sequence": "VQWRAIRVRKIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        5
+      ]
+    },
+    {
+      "id": "source-row-6",
+      "sequence": "VQWRAIRVRRIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        6
+      ]
+    },
+    {
+      "id": "source-row-7",
+      "sequence": "VQWRAIRVRVIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        7
+      ]
+    },
+    {
+      "id": "source-row-8",
+      "sequence": "VQWRAIRVRVIT",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        8
+      ]
+    },
+    {
+      "id": "source-row-9",
+      "sequence": "VQWRAIRVRVKR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        9
+      ]
+    },
+    {
+      "id": "source-row-10",
+      "sequence": "VQWRAWRVRVIR",
+      "split": "10.1016/j.celbio.2025.100088",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        10
+      ]
+    },
+    {
+      "id": "source-row-11",
+      "sequence": "GLWNKIKGAIKLVKGLKGL",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        11
+      ]
+    },
+    {
+      "id": "source-row-12",
+      "sequence": "GWLKKLFSKVLGGLKS",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        12
+      ]
+    },
+    {
+      "id": "source-row-13",
+      "sequence": "ILGILKNAAKFVLKIAK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        13
+      ]
+    },
+    {
+      "id": "source-row-14",
+      "sequence": "KLKTFLGKIGKLLKGGLKTLLKGLG",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        14
+      ]
+    },
+    {
+      "id": "source-row-15",
+      "sequence": "LFKLLRRIWKLFKRLFKLIRKF",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        15
+      ]
+    },
+    {
+      "id": "source-row-16",
+      "sequence": "LKLLKKALLKLLALAALKLAKK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        16
+      ]
+    },
+    {
+      "id": "source-row-17",
+      "sequence": "LKRLKLRKLILLLLRKLLLKLKKLLK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        17
+      ]
+    },
+    {
+      "id": "source-row-18",
+      "sequence": "MFARPIARKILRALFK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        18
+      ]
+    },
+    {
+      "id": "source-row-19",
+      "sequence": "MFGRLFRRIKRFVKKGVKRFKKILRIP",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        19
+      ]
+    },
+    {
+      "id": "source-row-20",
+      "sequence": "MGKRLIKIMRIGLKKLFK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        20
+      ]
+    },
+    {
+      "id": "source-row-21",
+      "sequence": "MIHLRRGIYRLIGRILRRLL",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        21
+      ]
+    },
+    {
+      "id": "source-row-22",
+      "sequence": "MIKNLWRLALRFGAKIAISWK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        22
+      ]
+    },
+    {
+      "id": "source-row-23",
+      "sequence": "MILQNILAKILRKLRAWYRNQWK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        23
+      ]
+    },
+    {
+      "id": "source-row-24",
+      "sequence": "MIPKLIKLAIKLAKLALKLTN",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        24
+      ]
+    },
+    {
+      "id": "source-row-25",
+      "sequence": "MIRAWGHLGARLIKALKRLIKILKNL",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        25
+      ]
+    },
+    {
+      "id": "source-row-26",
+      "sequence": "MIRRPFNRILRTFPRKLLKRLKV",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        26
+      ]
+    },
+    {
+      "id": "source-row-27",
+      "sequence": "MKFKKILKIGLGKLKNLALKLLKVLK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        27
+      ]
+    },
+    {
+      "id": "source-row-28",
+      "sequence": "MKMKWKLIRRIMW",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        28
+      ]
+    },
+    {
+      "id": "source-row-29",
+      "sequence": "MKPFFKKKKLLKVAKKLLKLLTKS",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        29
+      ]
+    },
+    {
+      "id": "source-row-30",
+      "sequence": "MLAKKLSTRFLKWLQWWRRIRW",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        30
+      ]
+    },
+    {
+      "id": "source-row-31",
+      "sequence": "MLIRWLLAAIKYWRK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        31
+      ]
+    },
+    {
+      "id": "source-row-32",
+      "sequence": "MWKIWVKWKWRWKVKLRKLVKKLVLKWK",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        32
+      ]
+    },
+    {
+      "id": "source-row-33",
+      "sequence": "MWKLLLKVLKIVGKGLKRAWKKVLKW",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        33
+      ]
+    },
+    {
+      "id": "source-row-34",
+      "sequence": "MWRLKKWLRLLRWRF",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        34
+      ]
+    },
+    {
+      "id": "source-row-35",
+      "sequence": "RFRFRIRLRLWFW",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        35
+      ]
+    },
+    {
+      "id": "source-row-36",
+      "sequence": "RLLWWRVSGRLLF",
+      "split": "10.1016/j.celbio.2025.100183",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        36
+      ]
+    },
+    {
+      "id": "source-row-37",
+      "sequence": "GKEFKRIVQRIKDFLRN",
+      "split": "10.1016/j.celbio.2026.100452",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "source-row-39",
+      "sequence": "DKKMPGGGLPGVGRFTMGGKHNESWFKLNRLF",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        39
+      ]
+    },
+    {
+      "id": "source-row-40",
+      "sequence": "FHVATSSVSFAFAGIWRPGLSRRYARKAARSRAGS",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        40
+      ]
+    },
+    {
+      "id": "source-row-41",
+      "sequence": "GVGIYLGLVGSGLVTAFVLTKLLKGIKLI",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        41
+      ]
+    },
+    {
+      "id": "source-row-42",
+      "sequence": "IAWIKKMINKIREEIKYRKRLKELKKKDPFIYK",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        42
+      ]
+    },
+    {
+      "id": "source-row-43",
+      "sequence": "KKLTYVALASVLLLSVGACAVGKGKGKAPPPAAAPVITKG",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        43
+      ]
+    },
+    {
+      "id": "source-row-44",
+      "sequence": "LGIDPSMQYIIKGGIILAACSLDMRKYLVRK",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        44
+      ]
+    },
+    {
+      "id": "source-row-45",
+      "sequence": "LILEKNGRFDLGTYVGNRLIAIRHLCKAPARAD",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        45
+      ]
+    },
+    {
+      "id": "source-row-46",
+      "sequence": "LILVLKDIHPKLNVMLVNVHGMLKDVLGNVLNGKASIKVLR",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        46
+      ]
+    },
+    {
+      "id": "source-row-47",
+      "sequence": "LYTVRNEAVYCVAPPHPLLQHCHQLGIFTTKAFFKF",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        47
+      ]
+    },
+    {
+      "id": "source-row-48",
+      "sequence": "PSLAVKFRPCTSPVYSMYSQALSPGTVTTPSKSLKEWFTMK",
+      "split": "10.1016/j.cell.2024.05.013",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        48
+      ]
+    },
+    {
+      "id": "source-row-49",
+      "sequence": "MADIFLLLLIFLMVYYVFGDELFPR",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        49
+      ]
+    },
+    {
+      "id": "source-row-50",
+      "sequence": "MAGGVVLIGITLVILFSSLFG",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        50
+      ]
+    },
+    {
+      "id": "source-row-51",
+      "sequence": "MAKKKYQTPKVSELKSAAGINVKA",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        51
+      ]
+    },
+    {
+      "id": "source-row-52",
+      "sequence": "MAKTKVIAVANQKGGVGKSTTV",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        52
+      ]
+    },
+    {
+      "id": "source-row-53",
+      "sequence": "MAKTYYDILGVAQNASAADIKKA",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        53
+      ]
+    },
+    {
+      "id": "source-row-54",
+      "sequence": "MANGIIIIDKPAGWTKLSKKGKALF",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        54
+      ]
+    },
+    {
+      "id": "source-row-55",
+      "sequence": "MASAAVVYITGGLTVPCVLRWMTR",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        55
+      ]
+    },
+    {
+      "id": "source-row-56",
+      "sequence": "MAVKVAINGFGRIGRLAFRQMFGA",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        56
+      ]
+    },
+    {
+      "id": "source-row-57",
+      "sequence": "MCRVIAVSNQKGGVGKTVSC",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        57
+      ]
+    },
+    {
+      "id": "source-row-58",
+      "sequence": "MEERENRIEIDEILKNKDKNKDK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        58
+      ]
+    },
+    {
+      "id": "source-row-59",
+      "sequence": "MEGYGNDNPGAKSQGIKQFMAK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        59
+      ]
+    },
+    {
+      "id": "source-row-60",
+      "sequence": "MEMQYFKEYSPALGREMECKVY",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        60
+      ]
+    },
+    {
+      "id": "source-row-61",
+      "sequence": "MGHINPWVAWMIEMLMFLHG",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        61
+      ]
+    },
+    {
+      "id": "source-row-62",
+      "sequence": "MGILKKLWDMLPEGRPV",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        62
+      ]
+    },
+    {
+      "id": "source-row-63",
+      "sequence": "MGIMGVIVLIILVIGVTKYGIR",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        63
+      ]
+    },
+    {
+      "id": "source-row-64",
+      "sequence": "MGKKKTPQAKAYGAALQKG",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        64
+      ]
+    },
+    {
+      "id": "source-row-65",
+      "sequence": "MGNLVAIVGRPNVGKSTLFNRFH",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        65
+      ]
+    },
+    {
+      "id": "source-row-66",
+      "sequence": "MILKYREGGCTVGSGRVATVIE",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        66
+      ]
+    },
+    {
+      "id": "source-row-67",
+      "sequence": "MKARIPKHREFIINFPDSIDQNKAN",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        67
+      ]
+    },
+    {
+      "id": "source-row-68",
+      "sequence": "MKGIDASYEYEGYYTYKMEDLDKM",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        68
+      ]
+    },
+    {
+      "id": "source-row-69",
+      "sequence": "MKIGLVDVDGHHFPNLALMKLSA",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        69
+      ]
+    },
+    {
+      "id": "source-row-70",
+      "sequence": "MKIVVKRVPKFLRGFVKLIFGLKDEK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        70
+      ]
+    },
+    {
+      "id": "source-row-71",
+      "sequence": "MKKAIYRILILMVVAVMVVLSVLHF",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        71
+      ]
+    },
+    {
+      "id": "source-row-72",
+      "sequence": "MKKILCIAILAGAAYFGYKKSVA",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        72
+      ]
+    },
+    {
+      "id": "source-row-73",
+      "sequence": "MKKLIVLALVGAAAFFVYKKKFAA",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        73
+      ]
+    },
+    {
+      "id": "source-row-74",
+      "sequence": "MKTMKNFIQKVFKGDPMIWGYVMLS",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        74
+      ]
+    },
+    {
+      "id": "source-row-75",
+      "sequence": "MLDVIIRIAEAVIDELKKNK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        75
+      ]
+    },
+    {
+      "id": "source-row-76",
+      "sequence": "MLGAILGDIVGSPYEYG",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        76
+      ]
+    },
+    {
+      "id": "source-row-77",
+      "sequence": "MLIKNIKWDTDGDMEALASLPIKRVP",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        77
+      ]
+    },
+    {
+      "id": "source-row-78",
+      "sequence": "MLNYLYDRDINRYRAIIKALGLRK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        78
+      ]
+    },
+    {
+      "id": "source-row-79",
+      "sequence": "MLPLISIVVGQVVANQITNLIKKD",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        79
+      ]
+    },
+    {
+      "id": "source-row-80",
+      "sequence": "MNCAALLALLCQMLGVGCNG",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        80
+      ]
+    },
+    {
+      "id": "source-row-81",
+      "sequence": "MNLGKGISEAYKGFMKGAFGKNWNK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        81
+      ]
+    },
+    {
+      "id": "source-row-82",
+      "sequence": "MNYRLLVEIKEDKFIIKALSIGHRR",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        82
+      ]
+    },
+    {
+      "id": "source-row-83",
+      "sequence": "MPEIEGIYYETEEDYY",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        83
+      ]
+    },
+    {
+      "id": "source-row-84",
+      "sequence": "MPGQVEITVIRETRAVSYAK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        84
+      ]
+    },
+    {
+      "id": "source-row-85",
+      "sequence": "MQILTHLIFLLNLLKTLINHFS",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        85
+      ]
+    },
+    {
+      "id": "source-row-86",
+      "sequence": "MQIVVVKCPHALRWLLRAVFKV",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        86
+      ]
+    },
+    {
+      "id": "source-row-87",
+      "sequence": "MQKLAEAIANTVKAGQDHDWAKLGTSIVGIAENGISLLGKVFGF",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        87
+      ]
+    },
+    {
+      "id": "source-row-88",
+      "sequence": "MQTQKARKRELSVEEMIKRMQFDV",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        88
+      ]
+    },
+    {
+      "id": "source-row-89",
+      "sequence": "MRITFKPLWKLLIDRDMTREDVR",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        89
+      ]
+    },
+    {
+      "id": "source-row-90",
+      "sequence": "MSIAIVAIMIAQAVNLGNKINLGNK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        90
+      ]
+    },
+    {
+      "id": "source-row-91",
+      "sequence": "MSIYAHVTEKQRDNMADKFAKFMAL",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        91
+      ]
+    },
+    {
+      "id": "source-row-92",
+      "sequence": "MSVQSRIRKIEKKKGMYKRRKEDIIKCKLKKQEKEN",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        92
+      ]
+    },
+    {
+      "id": "source-row-93",
+      "sequence": "MSYKQENFEEWIILIPVKIEY",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        93
+      ]
+    },
+    {
+      "id": "source-row-94",
+      "sequence": "MTIMYPVLLLLACIVGGILIARKR",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        94
+      ]
+    },
+    {
+      "id": "source-row-95",
+      "sequence": "MTIVVKKVPKFLRGFVKLIFGIKD",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        95
+      ]
+    },
+    {
+      "id": "source-row-96",
+      "sequence": "MTMNKFMADVDDLIFDGQEQSHSER",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        96
+      ]
+    },
+    {
+      "id": "source-row-97",
+      "sequence": "MTMRLLIAEDEADLAEARTVF",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        97
+      ]
+    },
+    {
+      "id": "source-row-98",
+      "sequence": "MTRLKKVLAALIAVVFAALGLN",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        98
+      ]
+    },
+    {
+      "id": "source-row-99",
+      "sequence": "MTTPKFDRLAITQAVLLKYTYF",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        99
+      ]
+    },
+    {
+      "id": "source-row-100",
+      "sequence": "MTYGLLLIAAIGALFAYKMHQQAK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        100
+      ]
+    },
+    {
+      "id": "source-row-101",
+      "sequence": "MVAAIVKAILAALTGLANALLPLFK",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        101
+      ]
+    },
+    {
+      "id": "source-row-102",
+      "sequence": "MVGATLIPLLSGLFG",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        102
+      ]
+    },
+    {
+      "id": "source-row-103",
+      "sequence": "MVKLILLALFVWVIWLTLRKIFRGY",
+      "split": "10.1016/j.cell.2024.07.027",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        103
+      ]
+    },
+    {
+      "id": "source-row-104",
+      "sequence": "AIGPKGDRGFPGPLG",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        104
+      ]
+    },
+    {
+      "id": "source-row-105",
+      "sequence": "ALQLCYRHNKRRKFFVDPRCHPQTIAVVQ",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        105
+      ]
+    },
+    {
+      "id": "source-row-106",
+      "sequence": "AVAKLPAQKTEVFRGVLEQLRWFAGKQVKSVA",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        106
+      ]
+    },
+    {
+      "id": "source-row-107",
+      "sequence": "GSKPWWWSYFTSLSTHRPRWLLKY",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        107
+      ]
+    },
+    {
+      "id": "source-row-108",
+      "sequence": "GWTSRWIESKHKSDFGKFVL",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        108
+      ]
+    },
+    {
+      "id": "source-row-109",
+      "sequence": "NVKMKWQFEHTKPTPFLPTLITLTTLLLPISPFMLMIL",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        109
+      ]
+    },
+    {
+      "id": "source-row-110",
+      "sequence": "SPRYHTVGRAAGLLMGLRRSPYLWRRALR",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        110
+      ]
+    },
+    {
+      "id": "source-row-111",
+      "sequence": "SSIEKQVALLKALYGHG",
+      "split": "10.1016/j.chom.2023.07.001",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        111
+      ]
+    },
+    {
+      "id": "source-row-112",
+      "sequence": "FLPTTAQPTKKSTLKKRVCRLPRPETQKGRRRRARLRFMK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ]
+    },
+    {
+      "id": "source-row-120",
+      "sequence": "FLPTTAQPTKKSTLKKRVCRLPRPETQKGRRRRARLRFMKQFYK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ]
+    },
+    {
+      "id": "source-row-127",
+      "sequence": "FPIPRNSTVNIPLFRRFGRQRKIGGRGRIISPYRTPVLRRHRYSIFR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ]
+    },
+    {
+      "id": "source-row-136",
+      "sequence": "FQLRGKPKAKYLVRLKGNKKGASMLKILATTRPTKQSFPSLP",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        136,
+        137,
+        138,
+        139,
+        140
+      ]
+    },
+    {
+      "id": "source-row-141",
+      "sequence": "FRFPNRPFVPSRCNHRFPFQPFYWPHRYLTYRYFPRRRLQR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        141
+      ]
+    },
+    {
+      "id": "source-row-142",
+      "sequence": "GFNLIHRLSLMKTSAIKKIRNPKGPLILRLGAAPVTQPTRRVFPRGLP",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ]
+    },
+    {
+      "id": "source-row-153",
+      "sequence": "GLRLLHRRQKRIIGGKNSLRGGWPWQVSLRLK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161
+      ]
+    },
+    {
+      "id": "source-row-162",
+      "sequence": "HPPLRLKKSFEILVRKPMSSKPKPPPRKYFKS",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168
+      ]
+    },
+    {
+      "id": "source-row-169",
+      "sequence": "HRVNNAFLFSIRNKNRLQLGVQLLPKKLVVHIRGKQPAVF",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ]
+    },
+    {
+      "id": "source-row-179",
+      "sequence": "IIAITRFSRRKIPWQQNFVNNHNPKGRLRNQHKVSLQKSTAVMLPK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186
+      ]
+    },
+    {
+      "id": "source-row-187",
+      "sequence": "IIFHTKKKLSVCANPKQTWVKYIVRLLSKKVK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        187,
+        188,
+        189,
+        190,
+        191
+      ]
+    },
+    {
+      "id": "source-row-192",
+      "sequence": "IPLFRRFGRQRKIGGRGRIISPYRTPVLRRHRYSIFR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ]
+    },
+    {
+      "id": "source-row-201",
+      "sequence": "IRRAINKYPPINLKIKCNRLNSIDPKQPPRPFRSFVPGPLKATLK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214
+      ]
+    },
+    {
+      "id": "source-row-215",
+      "sequence": "KITDVFVKRKGAKFLRFAPVSSHQKVTFFIH",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        215,
+        216
+      ]
+    },
+    {
+      "id": "source-row-217",
+      "sequence": "KKSTLKKRVCRLPRPETQKGRRRRARLRFMKQFYK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226
+      ]
+    },
+    {
+      "id": "source-row-227",
+      "sequence": "KMYKMSTMRRIFDLAKHRTKRSAFFPTGVKVCPQESMKQIL",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        227,
+        228,
+        229
+      ]
+    },
+    {
+      "id": "source-row-230",
+      "sequence": "KQLFLKAQKIVHKLFSLSKRCHKQPLISLPRQR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242
+      ]
+    },
+    {
+      "id": "source-row-243",
+      "sequence": "LAGKSQLQMQKIFKKLPGFKKIHVLGFRPKK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253
+      ]
+    },
+    {
+      "id": "source-row-254",
+      "sequence": "LFLKAQKIVHKLFSLSKRCHKQPLISLPRQRTSTYWLTRI",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        254,
+        255,
+        256,
+        257
+      ]
+    },
+    {
+      "id": "source-row-258",
+      "sequence": "LKVLFKKTHRILRRLFNLCKRCHRQPRFRLPK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269
+      ]
+    },
+    {
+      "id": "source-row-270",
+      "sequence": "LKVLFKKTHRILRRLFNLCKRCHRQPRFRLPKERSLSYWWNRI",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282
+      ]
+    },
+    {
+      "id": "source-row-283",
+      "sequence": "LLHMLLARNKIRTLKNNMFSKFKKLKSL",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297
+      ]
+    },
+    {
+      "id": "source-row-298",
+      "sequence": "LRALPRYRLLRDLPRLLRALDARPFAEATSWGRLGARQRRQSR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307
+      ]
+    },
+    {
+      "id": "source-row-308",
+      "sequence": "MKQLFLKAQKIVHKLFSLSKRCHKQPLISLPRQRTSTYWLTRI",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315
+      ]
+    },
+    {
+      "id": "source-row-316",
+      "sequence": "RAVIFTTKRGKKVCTHPRKKWVQKYISLLKTPKQL",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ]
+    },
+    {
+      "id": "source-row-325",
+      "sequence": "RKLVYVLPGWPQDLLHMLLARNKIRTLKNNMFSKFKKLKSL",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340
+      ]
+    },
+    {
+      "id": "source-row-341",
+      "sequence": "RLSLMKTSAIKKIRNPKGPLILRLGAAPVTQPTRRVFPR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347
+      ]
+    },
+    {
+      "id": "source-row-348",
+      "sequence": "RPFVPSRCNHRFPFQPFYWPHRYLTYRYFPRRRLQR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        348,
+        349
+      ]
+    },
+    {
+      "id": "source-row-350",
+      "sequence": "RPLLLLAYFSRLCAKGDIPPPLRALPRYRLLRDLPRLLR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        350
+      ]
+    },
+    {
+      "id": "source-row-351",
+      "sequence": "RRPRIHFRFPNRPFVPSRCNHRFPFQPFYWPHRYLTYRYFPRRRLQR",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357
+      ]
+    },
+    {
+      "id": "source-row-358",
+      "sequence": "RTKKQLAMVMRYGVNGVGKILKKINKAIVSKKNK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372
+      ]
+    },
+    {
+      "id": "source-row-373",
+      "sequence": "RTKKQLAMVMRYGVNGVGKILKKINKAIVSKKNKDIVTVANAVFVK",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382
+      ]
+    },
+    {
+      "id": "source-row-383",
+      "sequence": "TKMYKLDVVSKPPLINGLYTNRTVIKATAVRHSKKHF",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        383,
+        384,
+        385,
+        386
+      ]
+    },
+    {
+      "id": "source-row-387",
+      "sequence": "VKFVKSFINSIRRAINKYPPINLKIKCNRLNSI",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402
+      ]
+    },
+    {
+      "id": "source-row-403",
+      "sequence": "VKFVKSFINSIRRAINKYPPINLKIKCNRLNSIDPKQPPRPFRSFV",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416
+      ]
+    },
+    {
+      "id": "source-row-417",
+      "sequence": "VRISGRGFCVKMFYIKPIKYKGPIKKGEKLGTLLPLQKVY",
+      "split": "10.1016/j.tibtech.2024.09.008",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        417,
+        418,
+        419
+      ]
+    },
+    {
+      "id": "source-row-420",
+      "sequence": "IFLKKNIINSLFGR",
+      "split": "10.1016/j.tibtech.2025.02.007",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        420
+      ]
+    },
+    {
+      "id": "source-row-421",
+      "sequence": "IFPKKNIINSLFGR",
+      "split": "10.1016/j.tibtech.2025.02.007",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        421
+      ]
+    },
+    {
+      "id": "source-row-422",
+      "sequence": "IFPKKNIINSLFKR",
+      "split": "10.1016/j.tibtech.2025.02.007",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        422
+      ]
+    },
+    {
+      "id": "source-row-423",
+      "sequence": "IFPLLNIINSLFGR",
+      "split": "10.1016/j.tibtech.2025.02.007",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        423
+      ]
+    },
+    {
+      "id": "source-row-424",
+      "sequence": "IKPKKNIINSLFGR",
+      "split": "10.1016/j.tibtech.2025.02.007",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        424
+      ]
+    },
+    {
+      "id": "source-row-425",
+      "sequence": "AKLLGIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        425
+      ]
+    },
+    {
+      "id": "source-row-426",
+      "sequence": "AKLMGIVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        426
+      ]
+    },
+    {
+      "id": "source-row-427",
+      "sequence": "KKLLGIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        427
+      ]
+    },
+    {
+      "id": "source-row-428",
+      "sequence": "LALLGIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        428
+      ]
+    },
+    {
+      "id": "source-row-429",
+      "sequence": "LALMGIVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        429
+      ]
+    },
+    {
+      "id": "source-row-430",
+      "sequence": "LKALGIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        430
+      ]
+    },
+    {
+      "id": "source-row-431",
+      "sequence": "LKAMGIVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        431
+      ]
+    },
+    {
+      "id": "source-row-432",
+      "sequence": "LKLAGIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        432
+      ]
+    },
+    {
+      "id": "source-row-433",
+      "sequence": "LKLAGIVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        433
+      ]
+    },
+    {
+      "id": "source-row-434",
+      "sequence": "LKLLAIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        434
+      ]
+    },
+    {
+      "id": "source-row-435",
+      "sequence": "LKLLGAVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        435
+      ]
+    },
+    {
+      "id": "source-row-436",
+      "sequence": "LKLLGIAKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        436
+      ]
+    },
+    {
+      "id": "source-row-437",
+      "sequence": "LKLLGIVAKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        437
+      ]
+    },
+    {
+      "id": "source-row-438",
+      "sequence": "LKLLGIVKAVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        438
+      ]
+    },
+    {
+      "id": "source-row-439",
+      "sequence": "LKLLGIVKKALGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        439
+      ]
+    },
+    {
+      "id": "source-row-440",
+      "sequence": "LKLLGIVKKKLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        440
+      ]
+    },
+    {
+      "id": "source-row-441",
+      "sequence": "LKLLGIVKKVAGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        441
+      ]
+    },
+    {
+      "id": "source-row-442",
+      "sequence": "LKLLGIVKKVLAAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        442
+      ]
+    },
+    {
+      "id": "source-row-443",
+      "sequence": "LKLLGIVKKVLGAA",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        443
+      ]
+    },
+    {
+      "id": "source-row-444",
+      "sequence": "LKLLGIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        444
+      ]
+    },
+    {
+      "id": "source-row-445",
+      "sequence": "LKLLGIVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        445
+      ]
+    },
+    {
+      "id": "source-row-446",
+      "sequence": "LKLLGIVKKVLGKI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        446
+      ]
+    },
+    {
+      "id": "source-row-447",
+      "sequence": "LKLLGKVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        447
+      ]
+    },
+    {
+      "id": "source-row-448",
+      "sequence": "LKLMAIVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        448
+      ]
+    },
+    {
+      "id": "source-row-449",
+      "sequence": "LKLMGAVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        449
+      ]
+    },
+    {
+      "id": "source-row-450",
+      "sequence": "LKLMGIAKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        450
+      ]
+    },
+    {
+      "id": "source-row-451",
+      "sequence": "LKLMGIVAKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        451
+      ]
+    },
+    {
+      "id": "source-row-452",
+      "sequence": "LKLMGIVKAVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        452
+      ]
+    },
+    {
+      "id": "source-row-453",
+      "sequence": "LKLMGIVKKALGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        453
+      ]
+    },
+    {
+      "id": "source-row-454",
+      "sequence": "LKLMGIVKKVAGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        454
+      ]
+    },
+    {
+      "id": "source-row-455",
+      "sequence": "LKLMGIVKKVLAAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        455
+      ]
+    },
+    {
+      "id": "source-row-456",
+      "sequence": "LKLMGIVKKVLGAA",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        456
+      ]
+    },
+    {
+      "id": "source-row-457",
+      "sequence": "LKLMGIVKKVLGAI",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        457
+      ]
+    },
+    {
+      "id": "source-row-458",
+      "sequence": "LKLMGIVKKVLGAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        458
+      ]
+    },
+    {
+      "id": "source-row-459",
+      "sequence": "LKLMGIVKKVLGKL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        459
+      ]
+    },
+    {
+      "id": "source-row-460",
+      "sequence": "LKLMGIVKKVLKAL",
+      "split": "10.1016/j.xcrp.2023.101459",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        460
+      ]
+    },
+    {
+      "id": "source-row-461",
+      "sequence": "HVALKAGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT",
+      "split": "10.1021/acsnano.1c04496",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467
+      ]
+    },
+    {
+      "id": "source-row-468",
+      "sequence": "HVALKPGKLKFIIPSPKRPVKLLSG",
+      "split": "10.1021/acsnano.1c04496",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474
+      ]
+    },
+    {
+      "id": "source-row-475",
+      "sequence": "HVALKPGKLKFIIPSPKRPVKLLSGGNTLHLVSTTKT",
+      "split": "10.1021/acsnano.1c04496",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481
+      ]
+    },
+    {
+      "id": "source-row-482",
+      "sequence": "PRTQWIHFFKGDKVWRYINFKMSPGFPKKLNRV",
+      "split": "10.1021/jacsau.5c00947",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        482,
+        483
+      ]
+    },
+    {
+      "id": "source-row-484",
+      "sequence": "YLLLGRWRKKHLTFRILNL",
+      "split": "10.1021/jacsau.5c00947",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        484,
+        485
+      ]
+    },
+    {
+      "id": "source-row-486",
+      "sequence": "YLLLGRWRKKHLTFRILNLPSTLPPHTARAALR",
+      "split": "10.1021/jacsau.5c00947",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        486,
+        487
+      ]
+    },
+    {
+      "id": "source-row-488",
+      "sequence": "ARKFKWGKLFSAGKKLLKKAKKLSKNK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        488,
+        489,
+        490,
+        491,
+        492,
+        493
+      ]
+    },
+    {
+      "id": "source-row-494",
+      "sequence": "FIKKLWRSKLAKKLRAKGRELLK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        494,
+        495,
+        496,
+        497,
+        498,
+        499
+      ]
+    },
+    {
+      "id": "source-row-500",
+      "sequence": "FLKKIWRSKLVKRL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        500,
+        501,
+        502,
+        503
+      ]
+    },
+    {
+      "id": "source-row-504",
+      "sequence": "GKWLISSLVAKHL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        504
+      ]
+    },
+    {
+      "id": "source-row-505",
+      "sequence": "KFLARLVFRKFILL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        505,
+        506,
+        507,
+        508,
+        509
+      ]
+    },
+    {
+      "id": "source-row-510",
+      "sequence": "KFSVFSKILRSIAKVF",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517
+      ]
+    },
+    {
+      "id": "source-row-518",
+      "sequence": "KFSVFSKILRSIAKVFKGVGKVRK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        518,
+        519,
+        520,
+        521
+      ]
+    },
+    {
+      "id": "source-row-522",
+      "sequence": "KIKWFKTMKSLAKFLAK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528
+      ]
+    },
+    {
+      "id": "source-row-529",
+      "sequence": "KIKWLKAMKSIAKFIAKK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535
+      ]
+    },
+    {
+      "id": "source-row-536",
+      "sequence": "KKQIRLYLLKYYGKKSSSKSVRKIVISK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        536
+      ]
+    },
+    {
+      "id": "source-row-537",
+      "sequence": "KKWRELSRLSRVLQIL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        537,
+        538,
+        539,
+        540,
+        541
+      ]
+    },
+    {
+      "id": "source-row-542",
+      "sequence": "KLHGLLTRRSLKNFWKRNLYLR",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        542,
+        543,
+        544,
+        545,
+        546,
+        547
+      ]
+    },
+    {
+      "id": "source-row-548",
+      "sequence": "KLKKLRKWIYRIV",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554
+      ]
+    },
+    {
+      "id": "source-row-555",
+      "sequence": "KLLKIGLKSFARVLKKVL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564
+      ]
+    },
+    {
+      "id": "source-row-565",
+      "sequence": "KLSGISKVLRAIAKFFK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573
+      ]
+    },
+    {
+      "id": "source-row-574",
+      "sequence": "KLWNSKLARKIRTKGLKYVKNFAK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580
+      ]
+    },
+    {
+      "id": "source-row-581",
+      "sequence": "KNKRFIRNLRSNLYQKIIKSTKSLL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592
+      ]
+    },
+    {
+      "id": "source-row-593",
+      "sequence": "KQKYLIKRSRAKMQNHKLFKLTKR",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        593
+      ]
+    },
+    {
+      "id": "source-row-594",
+      "sequence": "KRFIRNLRSNLYQKIIKSTKSLLDLREKI",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        594,
+        595,
+        596
+      ]
+    },
+    {
+      "id": "source-row-597",
+      "sequence": "KRGRASPLWQRRGFLSKLKARAKRNGAFHLPR",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        597,
+        598
+      ]
+    },
+    {
+      "id": "source-row-599",
+      "sequence": "KRLKGFAKKLWNSKLARKIRTKGLKYVKNFAK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605
+      ]
+    },
+    {
+      "id": "source-row-606",
+      "sequence": "KRLRAKMLNSKFIKLIKR",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        606,
+        607,
+        608,
+        609,
+        610
+      ]
+    },
+    {
+      "id": "source-row-611",
+      "sequence": "KRRRASPLWKRRRFLSMLKARAK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        611,
+        612,
+        613,
+        614
+      ]
+    },
+    {
+      "id": "source-row-615",
+      "sequence": "KWGKLFSAGKKLLKKAKKL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        615,
+        616,
+        617,
+        618,
+        619,
+        620
+      ]
+    },
+    {
+      "id": "source-row-621",
+      "sequence": "KWLGKLGVILSHL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        621,
+        622,
+        623,
+        624
+      ]
+    },
+    {
+      "id": "source-row-625",
+      "sequence": "KWLKAMKSIAKFIAKKQMKKHL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        625,
+        626,
+        627,
+        628,
+        629,
+        630
+      ]
+    },
+    {
+      "id": "source-row-631",
+      "sequence": "KYRRGVSPWLKKELVRLHNNLRSKVAGGK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        631,
+        632,
+        633,
+        634,
+        635
+      ]
+    },
+    {
+      "id": "source-row-636",
+      "sequence": "LKLKSILGKLGVIL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        636,
+        637,
+        638,
+        639,
+        640,
+        641
+      ]
+    },
+    {
+      "id": "source-row-642",
+      "sequence": "LLHFSIWRSTVLRK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        642,
+        643
+      ]
+    },
+    {
+      "id": "source-row-644",
+      "sequence": "LTKWLGKLGVIL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        644
+      ]
+    },
+    {
+      "id": "source-row-645",
+      "sequence": "PLWKRRRFLSMLKARAKR",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        645,
+        646
+      ]
+    },
+    {
+      "id": "source-row-647",
+      "sequence": "QPRRVKRFKKFFKKLKNSVKKRAKKF",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        647,
+        648,
+        649
+      ]
+    },
+    {
+      "id": "source-row-650",
+      "sequence": "RFGSFLKKVWKSKLAKKL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        650,
+        651,
+        652,
+        653,
+        654,
+        655
+      ]
+    },
+    {
+      "id": "source-row-656",
+      "sequence": "RGLAKLLKIGLKSFARVLKK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664
+      ]
+    },
+    {
+      "id": "source-row-665",
+      "sequence": "RHRIVRTYIAKFGLK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        665,
+        666
+      ]
+    },
+    {
+      "id": "source-row-667",
+      "sequence": "RKFKWGKLFSTAKKLYKKGKKLSK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        667,
+        668,
+        669,
+        670,
+        671,
+        672
+      ]
+    },
+    {
+      "id": "source-row-673",
+      "sequence": "RKFKWGKLFSTAKKLYKKGKKLSKNKNFKKALK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        673,
+        674,
+        675,
+        676,
+        677,
+        678
+      ]
+    },
+    {
+      "id": "source-row-679",
+      "sequence": "RKFKWGSFKKILSAGKKLFKKAKKLSK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        679,
+        680,
+        681,
+        682,
+        683,
+        684
+      ]
+    },
+    {
+      "id": "source-row-685",
+      "sequence": "RKFKWGSFKKILSAGKKLFKKAKKLSKNKNFKKALK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        685,
+        686,
+        687,
+        688,
+        689,
+        690
+      ]
+    },
+    {
+      "id": "source-row-691",
+      "sequence": "RKFNWGKLFKSAKKLYKTGKKLSKNKNVRKALKFGK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697
+      ]
+    },
+    {
+      "id": "source-row-698",
+      "sequence": "RKRRRFISMLKARAKRR",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        698
+      ]
+    },
+    {
+      "id": "source-row-699",
+      "sequence": "RQEYPTKRLRAKMLNSKFIKLIKR",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        699,
+        700
+      ]
+    },
+    {
+      "id": "source-row-701",
+      "sequence": "RRASPLWKRRRFLSMLKARAKRTGYK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        701,
+        702,
+        703
+      ]
+    },
+    {
+      "id": "source-row-704",
+      "sequence": "RRVKRFKKFFKKL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        704,
+        705
+      ]
+    },
+    {
+      "id": "source-row-706",
+      "sequence": "RRVKRFKKFFMKL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        706,
+        707,
+        708
+      ]
+    },
+    {
+      "id": "source-row-709",
+      "sequence": "RRVKRFKKFFMKLKKSVKKRVMKFFK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        709,
+        710,
+        711,
+        712,
+        713,
+        714
+      ]
+    },
+    {
+      "id": "source-row-715",
+      "sequence": "RRVKRFKKFFRKLKKSVKKRAKEFFK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        715,
+        716,
+        717,
+        718,
+        719,
+        720,
+        721
+      ]
+    },
+    {
+      "id": "source-row-722",
+      "sequence": "SFKKILSAGKKLFKKAKKL",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        722,
+        723,
+        724,
+        725,
+        726
+      ]
+    },
+    {
+      "id": "source-row-727",
+      "sequence": "SKKQIRLYLLKYYGKKLFKKRPK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        727,
+        728,
+        729,
+        730,
+        731
+      ]
+    },
+    {
+      "id": "source-row-732",
+      "sequence": "VNSFKIGGFIKKLWRSKLAKKLRAK",
+      "split": "10.1038/s41467-025-60051-6",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        732,
+        733,
+        734,
+        735,
+        736,
+        737
+      ]
+    },
+    {
+      "id": "source-row-738",
+      "sequence": "ALYIKAAWLKATIPEDRIKNIRLLKKKTKKQFMK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747
+      ]
+    },
+    {
+      "id": "source-row-748",
+      "sequence": "APAHRSSTFPKWVTKTERGRQPLRS",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        748
+      ]
+    },
+    {
+      "id": "source-row-749",
+      "sequence": "AWEIVRVEIRRCLYYFYKFTALFRRK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        749,
+        750
+      ]
+    },
+    {
+      "id": "source-row-751",
+      "sequence": "EEGAPPQQSARRDRMPCRNFFWKTFSSCK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        751,
+        752
+      ]
+    },
+    {
+      "id": "source-row-753",
+      "sequence": "EIGDEENSAKFPIGRRDFDMLRCMLGRVYRPCWQV",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        753
+      ]
+    },
+    {
+      "id": "source-row-754",
+      "sequence": "ERPVNLTMRRKLRKHNCLQRRCMPLHSRVPFP",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767
+      ]
+    },
+    {
+      "id": "source-row-768",
+      "sequence": "FALRMKIKEVKKENGDKKIVPKKKKPLKLGPIKKKDLKKLVLYLKNGA",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        777,
+        778,
+        779
+      ]
+    },
+    {
+      "id": "source-row-780",
+      "sequence": "FGGFTGARKSARKLANQ",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        780
+      ]
+    },
+    {
+      "id": "source-row-781",
+      "sequence": "FTRGKLMSSLHLKRYYGRILHYLKAK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        781,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795
+      ]
+    },
+    {
+      "id": "source-row-796",
+      "sequence": "GIIWATWKTRWYSMKKTTMKIIPFNRLTIG",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        796
+      ]
+    },
+    {
+      "id": "source-row-797",
+      "sequence": "GKASSAKQRLKCASLQKFGERAFKAWAVARLSQRFPKA",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        797,
+        798,
+        799,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811,
+        812
+      ]
+    },
+    {
+      "id": "source-row-813",
+      "sequence": "GSSFLSPEHQRVQQRKESKKPPAKLQPR",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        813
+      ]
+    },
+    {
+      "id": "source-row-814",
+      "sequence": "GVVWMNWKGSWYSMRKMSMKIRPFFPQQ",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        814,
+        815
+      ]
+    },
+    {
+      "id": "source-row-816",
+      "sequence": "GVVWVSFRGADYSLRAVRMKIRPLVTQ",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        816,
+        817,
+        818
+      ]
+    },
+    {
+      "id": "source-row-819",
+      "sequence": "HVRIRVIKKKKVIMKKRKKLTLTRP",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        819,
+        820,
+        821,
+        822,
+        823,
+        824,
+        825,
+        826,
+        827,
+        828,
+        829,
+        830,
+        831,
+        832
+      ]
+    },
+    {
+      "id": "source-row-833",
+      "sequence": "KERQIKKQTALVELVKHKPKATKEQLKAVM",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        833,
+        834
+      ]
+    },
+    {
+      "id": "source-row-835",
+      "sequence": "KHKEMLPKSFIKLLRSKVSSFLRPYK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        835,
+        836,
+        837,
+        838,
+        839,
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847,
+        848,
+        849,
+        850,
+        851,
+        852,
+        853,
+        854,
+        855,
+        856,
+        857
+      ]
+    },
+    {
+      "id": "source-row-858",
+      "sequence": "KKIVPKKKKPLKLGPIKKKDLKKLVLYLKNGA",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        858,
+        859,
+        860,
+        861,
+        862,
+        863,
+        864,
+        865,
+        866,
+        867,
+        868,
+        869,
+        870,
+        871,
+        872,
+        873,
+        874,
+        875,
+        876
+      ]
+    },
+    {
+      "id": "source-row-877",
+      "sequence": "KKKPPSPIKPKIPLSAPRK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        877,
+        878
+      ]
+    },
+    {
+      "id": "source-row-879",
+      "sequence": "KKKPPSPIKPKIPLSAPRKNTNSVKYRLKFRFG",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        879,
+        880,
+        881,
+        882,
+        883,
+        884,
+        885,
+        886,
+        887,
+        888,
+        889,
+        890,
+        891,
+        892
+      ]
+    },
+    {
+      "id": "source-row-893",
+      "sequence": "KTLRKWLKMFKKRQLELYLPKFSI",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        893,
+        894,
+        895,
+        896,
+        897,
+        898,
+        899,
+        900,
+        901,
+        902,
+        903,
+        904,
+        905,
+        906
+      ]
+    },
+    {
+      "id": "source-row-907",
+      "sequence": "LIRIPLHRVQPGRRILNLLRGWR",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        907,
+        908,
+        909,
+        910,
+        911,
+        912,
+        913,
+        914,
+        915,
+        916,
+        917
+      ]
+    },
+    {
+      "id": "source-row-918",
+      "sequence": "LIRIPLHRVQPGRRILNLLRGWREPAELPKLGAPSPGD",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        918,
+        919,
+        920,
+        921,
+        922,
+        923,
+        924,
+        925,
+        926,
+        927,
+        928,
+        929,
+        930,
+        931,
+        932,
+        933
+      ]
+    },
+    {
+      "id": "source-row-934",
+      "sequence": "LVQPRGSRNGPGPWQGGRRKFRRQRPRLSHKGPNPF",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        934,
+        935,
+        936,
+        937,
+        938,
+        939,
+        940,
+        941,
+        942,
+        943,
+        944,
+        945,
+        946,
+        947
+      ]
+    },
+    {
+      "id": "source-row-948",
+      "sequence": "MFPRSFIKLLRSKVSRFLRPYK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        948,
+        949,
+        950,
+        951,
+        952,
+        953,
+        954,
+        955,
+        956,
+        957,
+        958,
+        959,
+        960
+      ]
+    },
+    {
+      "id": "source-row-961",
+      "sequence": "MKSITRMKRIFYRIGNKGIYKAISELDILLSWIKKLL",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        961,
+        962,
+        963,
+        964,
+        965,
+        966,
+        967
+      ]
+    },
+    {
+      "id": "source-row-968",
+      "sequence": "MLPKSFIKLLRSKVSSFLRPYK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        968,
+        969,
+        970,
+        971,
+        972,
+        973,
+        974,
+        975,
+        976,
+        977,
+        978,
+        979,
+        980,
+        981,
+        982,
+        983,
+        984,
+        985,
+        986,
+        987,
+        988,
+        989
+      ]
+    },
+    {
+      "id": "source-row-990",
+      "sequence": "PQRMSRNFVRYVQGLKKKK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        990,
+        991,
+        992,
+        993,
+        994,
+        995,
+        996,
+        997,
+        998,
+        999,
+        1000,
+        1001,
+        1002
+      ]
+    },
+    {
+      "id": "source-row-1003",
+      "sequence": "PQRMSRNFVRYVQGLKKKKVIVIPVGIGP",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017
+      ]
+    },
+    {
+      "id": "source-row-1018",
+      "sequence": "PQRMSRNFVRYVQGLKKKKVIVIPVGIGPHANLKQIRLIEKQAP",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029
+      ]
+    },
+    {
+      "id": "source-row-1030",
+      "sequence": "PYPYPFRPLPPIPFPRFPWFRRNFPIPIP",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1030,
+        1031
+      ]
+    },
+    {
+      "id": "source-row-1032",
+      "sequence": "PYPYPFRPLPPIPFPRFPWFRRNFPIPIPESAPTTPLPSEK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1032,
+        1033
+      ]
+    },
+    {
+      "id": "source-row-1034",
+      "sequence": "SFRGADYSLRAVRMKIRPLVTQ",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1034,
+        1035
+      ]
+    },
+    {
+      "id": "source-row-1036",
+      "sequence": "SFRNGVGTGNKKTSFQRAKS",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1036
+      ]
+    },
+    {
+      "id": "source-row-1037",
+      "sequence": "SKEMFPRSFIKLLRSKVSRFLRPYK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1037,
+        1038,
+        1039,
+        1040,
+        1041,
+        1042,
+        1043,
+        1044,
+        1045,
+        1046,
+        1047,
+        1048,
+        1049,
+        1050,
+        1051,
+        1052,
+        1053,
+        1054,
+        1055,
+        1056,
+        1057,
+        1058,
+        1059
+      ]
+    },
+    {
+      "id": "source-row-1060",
+      "sequence": "SPKMVQGSGCFGRKMDRISSSSGRGCKVLRRH",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1060,
+        1061
+      ]
+    },
+    {
+      "id": "source-row-1062",
+      "sequence": "SSNKLSFRARAYGFRGPGPQL",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1062
+      ]
+    },
+    {
+      "id": "source-row-1063",
+      "sequence": "SYSMEHFRWGKPVGKKRRPVKVYPNGAEDESAEAFPLEF",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1063,
+        1064
+      ]
+    },
+    {
+      "id": "source-row-1065",
+      "sequence": "TFLKKYLYEIARRHPYFYAPELLFFAKRYKAAFT",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1065,
+        1066,
+        1067
+      ]
+    },
+    {
+      "id": "source-row-1068",
+      "sequence": "TWKTRWYSMKKTTMKIIPFNRLTIG",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1068,
+        1069,
+        1070,
+        1071,
+        1072,
+        1073,
+        1074,
+        1075,
+        1076
+      ]
+    },
+    {
+      "id": "source-row-1077",
+      "sequence": "VKELIKKWEKQVSQKKKQKNGKKHQKKKVLKVRKSQRSRQKKTT",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1077,
+        1078,
+        1079,
+        1080,
+        1081,
+        1082,
+        1083,
+        1084,
+        1085,
+        1086,
+        1087,
+        1088,
+        1089,
+        1090,
+        1091,
+        1092
+      ]
+    },
+    {
+      "id": "source-row-1093",
+      "sequence": "WYKHVASPRYHTVGRAAGLLMGLRRSPYLW",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1099,
+        1100,
+        1101
+      ]
+    },
+    {
+      "id": "source-row-1102",
+      "sequence": "WYKPAAGHSSYSVGRAAGLLSGLRRSPYA",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1102
+      ]
+    },
+    {
+      "id": "source-row-1103",
+      "sequence": "YGGFLRRIRPKLKWDNQKRYGGFLRRQFKVVT",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1103,
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1109,
+        1110,
+        1111,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1117,
+        1118
+      ]
+    },
+    {
+      "id": "source-row-1119",
+      "sequence": "YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1119,
+        1120,
+        1121
+      ]
+    },
+    {
+      "id": "source-row-1122",
+      "sequence": "YKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSK",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1122,
+        1123,
+        1124
+      ]
+    },
+    {
+      "id": "source-row-1125",
+      "sequence": "YKGANKKGLSKGCFGLKLDRIGSMSGLGC",
+      "split": "10.1038/s41551-021-00801-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1125,
+        1126,
+        1127,
+        1128,
+        1129,
+        1130,
+        1131,
+        1132
+      ]
+    },
+    {
+      "id": "source-row-1133",
+      "sequence": "CVLLFSQLPAVKARGTKHRIKWNRK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1133
+      ]
+    },
+    {
+      "id": "source-row-1134",
+      "sequence": "FLKLRWSRFARVLL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1134,
+        1135,
+        1136,
+        1137,
+        1138,
+        1139,
+        1140,
+        1141,
+        1142,
+        1143
+      ]
+    },
+    {
+      "id": "source-row-1144",
+      "sequence": "FRVLAKALR",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1144
+      ]
+    },
+    {
+      "id": "source-row-1145",
+      "sequence": "GHLLIHLIGKATLAL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1145,
+        1146,
+        1147,
+        1148,
+        1149
+      ]
+    },
+    {
+      "id": "source-row-1150",
+      "sequence": "HWITINTIKLSISLKI",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1150,
+        1151,
+        1152,
+        1153
+      ]
+    },
+    {
+      "id": "source-row-1154",
+      "sequence": "IFLHLKILKIIRLL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1154,
+        1155,
+        1156,
+        1157,
+        1158,
+        1159,
+        1160,
+        1161
+      ]
+    },
+    {
+      "id": "source-row-1162",
+      "sequence": "IFLHLKTLKIIHLL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1162,
+        1163,
+        1164
+      ]
+    },
+    {
+      "id": "source-row-1165",
+      "sequence": "IFSLHLAGISSIL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1165
+      ]
+    },
+    {
+      "id": "source-row-1166",
+      "sequence": "ILLTTAIAIKLGL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1166
+      ]
+    },
+    {
+      "id": "source-row-1167",
+      "sequence": "ILTLFIIFQLKISKL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1167
+      ]
+    },
+    {
+      "id": "source-row-1168",
+      "sequence": "ISLFIRPLALGVRL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1168,
+        1169,
+        1170,
+        1171,
+        1172,
+        1173,
+        1174,
+        1175
+      ]
+    },
+    {
+      "id": "source-row-1176",
+      "sequence": "IVGNVFGFKALRALRL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1176,
+        1177
+      ]
+    },
+    {
+      "id": "source-row-1178",
+      "sequence": "KFILNFKIPISFK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1178,
+        1179,
+        1180,
+        1181,
+        1182,
+        1183
+      ]
+    },
+    {
+      "id": "source-row-1184",
+      "sequence": "KIYKKLSTPPFTLNIRTLPKVKFPK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1184,
+        1185,
+        1186
+      ]
+    },
+    {
+      "id": "source-row-1187",
+      "sequence": "KKPPNPIKPKVPLSAPRKSPNTVKYRLKFR",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1187
+      ]
+    },
+    {
+      "id": "source-row-1188",
+      "sequence": "KKWTKIYSPLSL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1188
+      ]
+    },
+    {
+      "id": "source-row-1189",
+      "sequence": "KKWVIKSVVFFK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1189,
+        1190,
+        1191,
+        1192,
+        1193,
+        1194,
+        1195,
+        1196,
+        1197
+      ]
+    },
+    {
+      "id": "source-row-1198",
+      "sequence": "KLLRKVLKETKKWVIKSVVFFKKIRK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1198,
+        1199,
+        1200,
+        1201,
+        1202,
+        1203,
+        1204
+      ]
+    },
+    {
+      "id": "source-row-1205",
+      "sequence": "KLYQRILWRLISEL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1205,
+        1206,
+        1207,
+        1208,
+        1209,
+        1210,
+        1211,
+        1212
+      ]
+    },
+    {
+      "id": "source-row-1213",
+      "sequence": "KRKRGLKLATALSLNNKF",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1213,
+        1214,
+        1215,
+        1216
+      ]
+    },
+    {
+      "id": "source-row-1217",
+      "sequence": "KTLKIIRLLF",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1217,
+        1218,
+        1219,
+        1220,
+        1221,
+        1222
+      ]
+    },
+    {
+      "id": "source-row-1223",
+      "sequence": "KVGAFLVDKVWKTLI",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1223,
+        1224,
+        1225
+      ]
+    },
+    {
+      "id": "source-row-1226",
+      "sequence": "KWTKIYLPLLLPL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1226,
+        1227,
+        1228
+      ]
+    },
+    {
+      "id": "source-row-1229",
+      "sequence": "KYRLKFRF",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1229,
+        1230,
+        1231,
+        1232
+      ]
+    },
+    {
+      "id": "source-row-1233",
+      "sequence": "LFIGLTNLLGLL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1233
+      ]
+    },
+    {
+      "id": "source-row-1234",
+      "sequence": "LFMHVGRGL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1234
+      ]
+    },
+    {
+      "id": "source-row-1235",
+      "sequence": "LFQQIIKY",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1235
+      ]
+    },
+    {
+      "id": "source-row-1236",
+      "sequence": "LHIGLIKTYLGSFAL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1236,
+        1237
+      ]
+    },
+    {
+      "id": "source-row-1238",
+      "sequence": "LHLKILKIIRLL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1238,
+        1239,
+        1240,
+        1241,
+        1242,
+        1243,
+        1244,
+        1245
+      ]
+    },
+    {
+      "id": "source-row-1246",
+      "sequence": "LHTINFIIKSLLL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1246
+      ]
+    },
+    {
+      "id": "source-row-1247",
+      "sequence": "LIVCFFRQLKFHF",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1247,
+        1248,
+        1249
+      ]
+    },
+    {
+      "id": "source-row-1250",
+      "sequence": "LKKKKVIVIP",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1250
+      ]
+    },
+    {
+      "id": "source-row-1251",
+      "sequence": "LLALFQQIIK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1251,
+        1252
+      ]
+    },
+    {
+      "id": "source-row-1253",
+      "sequence": "LLINSIKRLLLGSIL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1253,
+        1254,
+        1255,
+        1256,
+        1257,
+        1258,
+        1259,
+        1260
+      ]
+    },
+    {
+      "id": "source-row-1261",
+      "sequence": "LLRFSLVL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1261,
+        1262
+      ]
+    },
+    {
+      "id": "source-row-1263",
+      "sequence": "LRRIYTIW",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1263
+      ]
+    },
+    {
+      "id": "source-row-1264",
+      "sequence": "LTLFIIFQLKISKL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1264,
+        1265
+      ]
+    },
+    {
+      "id": "source-row-1266",
+      "sequence": "LYCRIYSLVRARGRRLTFRKNISK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1266,
+        1267,
+        1268,
+        1269,
+        1270,
+        1271
+      ]
+    },
+    {
+      "id": "source-row-1272",
+      "sequence": "NIRKSHPLIKII",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1272
+      ]
+    },
+    {
+      "id": "source-row-1273",
+      "sequence": "NSLIIKLI",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1273,
+        1274
+      ]
+    },
+    {
+      "id": "source-row-1275",
+      "sequence": "PNTVKYRLKFRF",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1275,
+        1276,
+        1277,
+        1278,
+        1279
+      ]
+    },
+    {
+      "id": "source-row-1280",
+      "sequence": "RACLHARSIARLHKRWRPVHQGLGLK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1280,
+        1281
+      ]
+    },
+    {
+      "id": "source-row-1282",
+      "sequence": "RAYICRKKFLSLRKASIKLQSLVRMK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1282,
+        1283,
+        1284,
+        1285
+      ]
+    },
+    {
+      "id": "source-row-1286",
+      "sequence": "RKILGDLKFLESLKTY",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1286
+      ]
+    },
+    {
+      "id": "source-row-1287",
+      "sequence": "RKRGLKLATALSLNNKFV",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1287,
+        1288,
+        1289,
+        1290
+      ]
+    },
+    {
+      "id": "source-row-1291",
+      "sequence": "RLATLQLWTINKITKQLMIPLNKPGHK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1291,
+        1292,
+        1293,
+        1294,
+        1295
+      ]
+    },
+    {
+      "id": "source-row-1296",
+      "sequence": "RMARNLVRYVQGLKKKKVI",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1296,
+        1297,
+        1298,
+        1299,
+        1300
+      ]
+    },
+    {
+      "id": "source-row-1301",
+      "sequence": "RNLVRYVQGLKKKKVIVIPVGIGPHANIK",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1301,
+        1302,
+        1303
+      ]
+    },
+    {
+      "id": "source-row-1304",
+      "sequence": "RQKNHGIHFRVLAKALR",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1304,
+        1305,
+        1306
+      ]
+    },
+    {
+      "id": "source-row-1307",
+      "sequence": "RWRDRFLF",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1307,
+        1308
+      ]
+    },
+    {
+      "id": "source-row-1309",
+      "sequence": "TIKLFLSFKL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1309
+      ]
+    },
+    {
+      "id": "source-row-1310",
+      "sequence": "WFHFNSKILLLTGL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1310
+      ]
+    },
+    {
+      "id": "source-row-1311",
+      "sequence": "WMTIHALKLSLSFKL",
+      "split": "10.1038/s41551-024-01201-x",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1311,
+        1312
+      ]
+    },
+    {
+      "id": "source-row-1313",
+      "sequence": "FAGKMLRKLVKIVFK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1313,
+        1314,
+        1315,
+        1316,
+        1317,
+        1318,
+        1319
+      ]
+    },
+    {
+      "id": "source-row-1320",
+      "sequence": "FALRFPRIVRIRF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1320,
+        1321,
+        1322,
+        1323,
+        1324,
+        1325
+      ]
+    },
+    {
+      "id": "source-row-1326",
+      "sequence": "FFKGMLRTLKWIF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1326,
+        1327,
+        1328,
+        1329,
+        1330,
+        1331,
+        1332
+      ]
+    },
+    {
+      "id": "source-row-1333",
+      "sequence": "FGALLGDIVKSFF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1333,
+        1334,
+        1335
+      ]
+    },
+    {
+      "id": "source-row-1336",
+      "sequence": "FIGINVAVGLKLIGK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1336,
+        1337,
+        1338,
+        1339
+      ]
+    },
+    {
+      "id": "source-row-1340",
+      "sequence": "FLGLRVINLLRIL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1340,
+        1341
+      ]
+    },
+    {
+      "id": "source-row-1342",
+      "sequence": "FLGVKLPKMLRFIKF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1342,
+        1343,
+        1344,
+        1345,
+        1346,
+        1347,
+        1348
+      ]
+    },
+    {
+      "id": "source-row-1349",
+      "sequence": "FLIHIVRRRLILF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1349,
+        1350
+      ]
+    },
+    {
+      "id": "source-row-1351",
+      "sequence": "FLWNMVRRIIRLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1351,
+        1352,
+        1353,
+        1354,
+        1355,
+        1356,
+        1357,
+        1358,
+        1359
+      ]
+    },
+    {
+      "id": "source-row-1360",
+      "sequence": "GAGYLARLLIRRSLRLLRRL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1360,
+        1361,
+        1362,
+        1363,
+        1364,
+        1365,
+        1366,
+        1367,
+        1368,
+        1369
+      ]
+    },
+    {
+      "id": "source-row-1370",
+      "sequence": "GHILGRLASVVSKKLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1370,
+        1371,
+        1372,
+        1373
+      ]
+    },
+    {
+      "id": "source-row-1374",
+      "sequence": "GIILRPLLHSRGSRRIRLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1374,
+        1375,
+        1376,
+        1377
+      ]
+    },
+    {
+      "id": "source-row-1378",
+      "sequence": "GLIGARILKRINRF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1378,
+        1379
+      ]
+    },
+    {
+      "id": "source-row-1380",
+      "sequence": "GRGLQLAKKWVWLKIRGQLENLKRWRRRLGK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1380,
+        1381,
+        1382,
+        1383,
+        1384,
+        1385,
+        1386
+      ]
+    },
+    {
+      "id": "source-row-1387",
+      "sequence": "IAKKGNLRLLIKIL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1387
+      ]
+    },
+    {
+      "id": "source-row-1388",
+      "sequence": "IERIRLRIRLAKNW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1388,
+        1389,
+        1390,
+        1391,
+        1392
+      ]
+    },
+    {
+      "id": "source-row-1393",
+      "sequence": "IFGALAKIRRLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1393,
+        1394,
+        1395,
+        1396,
+        1397,
+        1398,
+        1399
+      ]
+    },
+    {
+      "id": "source-row-1400",
+      "sequence": "IGLLSRGLIKRINL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1400
+      ]
+    },
+    {
+      "id": "source-row-1401",
+      "sequence": "IGWISNRVILKLLRFAKNMK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1401,
+        1402,
+        1403,
+        1404,
+        1405
+      ]
+    },
+    {
+      "id": "source-row-1406",
+      "sequence": "IILGSLALAIKKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1406,
+        1407
+      ]
+    },
+    {
+      "id": "source-row-1408",
+      "sequence": "IKAIALKINTLLSGLLAK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1408,
+        1409
+      ]
+    },
+    {
+      "id": "source-row-1410",
+      "sequence": "IKLIELGHKLKRIF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1410,
+        1411
+      ]
+    },
+    {
+      "id": "source-row-1412",
+      "sequence": "IKLRLWRWKYLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1412,
+        1413,
+        1414,
+        1415,
+        1416,
+        1417,
+        1418
+      ]
+    },
+    {
+      "id": "source-row-1419",
+      "sequence": "ILFAGLLKGLLKSL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1419,
+        1420,
+        1421,
+        1422,
+        1423,
+        1424,
+        1425,
+        1426
+      ]
+    },
+    {
+      "id": "source-row-1427",
+      "sequence": "ILGGKLIKKSLKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1427,
+        1428,
+        1429
+      ]
+    },
+    {
+      "id": "source-row-1430",
+      "sequence": "ILSKWLARFMVRYFK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1430,
+        1431,
+        1432,
+        1433,
+        1434,
+        1435
+      ]
+    },
+    {
+      "id": "source-row-1436",
+      "sequence": "ILVLLRIIKLRKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1436,
+        1437
+      ]
+    },
+    {
+      "id": "source-row-1438",
+      "sequence": "IQTPLNIARRRFQSWLRRRIRGSSRSQISKLLARLRRLKWA",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1438,
+        1439,
+        1440,
+        1441,
+        1442,
+        1443,
+        1444,
+        1445
+      ]
+    },
+    {
+      "id": "source-row-1446",
+      "sequence": "IRKLSHHMIKLLGLAKK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1446,
+        1447,
+        1448
+      ]
+    },
+    {
+      "id": "source-row-1449",
+      "sequence": "IRYYIIAVRRFLKW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1449
+      ]
+    },
+    {
+      "id": "source-row-1450",
+      "sequence": "ISKLLARLRRLKW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1450,
+        1451,
+        1452,
+        1453,
+        1454,
+        1455,
+        1456,
+        1457,
+        1458
+      ]
+    },
+    {
+      "id": "source-row-1459",
+      "sequence": "KINYRANIWALKMLGVKW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1459
+      ]
+    },
+    {
+      "id": "source-row-1460",
+      "sequence": "KKLIKVSPKALLKLGKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1460,
+        1461,
+        1462,
+        1463
+      ]
+    },
+    {
+      "id": "source-row-1464",
+      "sequence": "KRFWTLIKMLRF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1464,
+        1465,
+        1466,
+        1467,
+        1468,
+        1469
+      ]
+    },
+    {
+      "id": "source-row-1470",
+      "sequence": "KWILSRLHRIIKF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1470,
+        1471,
+        1472,
+        1473,
+        1474,
+        1475,
+        1476
+      ]
+    },
+    {
+      "id": "source-row-1477",
+      "sequence": "KWKKLIKGFVINKF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1477,
+        1478,
+        1479,
+        1480,
+        1481,
+        1482,
+        1483,
+        1484
+      ]
+    },
+    {
+      "id": "source-row-1485",
+      "sequence": "LARLLIRRILKNLKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1485,
+        1486,
+        1487,
+        1488,
+        1489,
+        1490,
+        1491,
+        1492,
+        1493,
+        1494
+      ]
+    },
+    {
+      "id": "source-row-1495",
+      "sequence": "LAWGLGIGRLAMLKIGLK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1495,
+        1496,
+        1497,
+        1498,
+        1499,
+        1500
+      ]
+    },
+    {
+      "id": "source-row-1501",
+      "sequence": "LFGGILRSIKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1501,
+        1502
+      ]
+    },
+    {
+      "id": "source-row-1503",
+      "sequence": "LFHPIEGWTRVDLTELHRIKEVYDRKIDFLKKLLKKFPLRAMRKINRLF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1503,
+        1504,
+        1505,
+        1506,
+        1507,
+        1508,
+        1509,
+        1510
+      ]
+    },
+    {
+      "id": "source-row-1511",
+      "sequence": "LFRLVRLLRFLRIL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1511,
+        1512,
+        1513,
+        1514,
+        1515,
+        1516,
+        1517,
+        1518,
+        1519
+      ]
+    },
+    {
+      "id": "source-row-1520",
+      "sequence": "LGLHLLKKMVIAGKLKF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1520,
+        1521,
+        1522,
+        1523,
+        1524,
+        1525,
+        1526,
+        1527
+      ]
+    },
+    {
+      "id": "source-row-1528",
+      "sequence": "LGRLLIRRSLRIL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1528,
+        1529,
+        1530,
+        1531,
+        1532
+      ]
+    },
+    {
+      "id": "source-row-1533",
+      "sequence": "LIKMLRFYVVLRRF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1533,
+        1534,
+        1535
+      ]
+    },
+    {
+      "id": "source-row-1536",
+      "sequence": "LIKTYGLRNKRELWKAESILRKYRRVGRMLLASK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1536,
+        1537,
+        1538,
+        1539
+      ]
+    },
+    {
+      "id": "source-row-1540",
+      "sequence": "LIMAKMLRLVRYYK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1540,
+        1541,
+        1542,
+        1543,
+        1544
+      ]
+    },
+    {
+      "id": "source-row-1545",
+      "sequence": "LKINNISLIRKIL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1545
+      ]
+    },
+    {
+      "id": "source-row-1546",
+      "sequence": "LLFKLIRHRL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1546
+      ]
+    },
+    {
+      "id": "source-row-1547",
+      "sequence": "LLIPLVRSGKIWEIAAKLRKLGW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1547,
+        1548,
+        1549,
+        1550
+      ]
+    },
+    {
+      "id": "source-row-1551",
+      "sequence": "LLIRRALRTLKLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1551,
+        1552,
+        1553,
+        1554,
+        1555,
+        1556,
+        1557,
+        1558,
+        1559,
+        1560
+      ]
+    },
+    {
+      "id": "source-row-1561",
+      "sequence": "LPLAKIAAKLMLGKKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1561,
+        1562,
+        1563,
+        1564,
+        1565
+      ]
+    },
+    {
+      "id": "source-row-1566",
+      "sequence": "LPPSFAMLLRKYLKNAKLIK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1566,
+        1567,
+        1568,
+        1569,
+        1570,
+        1571
+      ]
+    },
+    {
+      "id": "source-row-1572",
+      "sequence": "LRMEKIKKIMERTVEILRRW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1572
+      ]
+    },
+    {
+      "id": "source-row-1573",
+      "sequence": "LRMMLRRINATISKLNLKL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1573
+      ]
+    },
+    {
+      "id": "source-row-1574",
+      "sequence": "LRNKKELWLARARLKWIVRRARALLSMT",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1574,
+        1575,
+        1576,
+        1577,
+        1578
+      ]
+    },
+    {
+      "id": "source-row-1579",
+      "sequence": "LRRFKLLHKLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1579,
+        1580,
+        1581,
+        1582,
+        1583,
+        1584
+      ]
+    },
+    {
+      "id": "source-row-1585",
+      "sequence": "LRRRIKKYQRIIFGLPRFKLRGVRKDLRRASPLWF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1585,
+        1586,
+        1587,
+        1588,
+        1589,
+        1590,
+        1591
+      ]
+    },
+    {
+      "id": "source-row-1592",
+      "sequence": "LRRVGITNLRTVAKINWK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1592
+      ]
+    },
+    {
+      "id": "source-row-1593",
+      "sequence": "LSRWYVRLIRKRLW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1593,
+        1594,
+        1595,
+        1596
+      ]
+    },
+    {
+      "id": "source-row-1597",
+      "sequence": "LWLARARLKWIT",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1597,
+        1598,
+        1599,
+        1600
+      ]
+    },
+    {
+      "id": "source-row-1601",
+      "sequence": "LWMVRWRIAVVAAKIK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1601,
+        1602,
+        1603,
+        1604,
+        1605
+      ]
+    },
+    {
+      "id": "source-row-1606",
+      "sequence": "LWRRRRVFAAAVL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1606,
+        1607,
+        1608,
+        1609,
+        1610,
+        1611
+      ]
+    },
+    {
+      "id": "source-row-1612",
+      "sequence": "PKLAIKLGKAGLKSLL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1612,
+        1613,
+        1614,
+        1615,
+        1616
+      ]
+    },
+    {
+      "id": "source-row-1617",
+      "sequence": "PKWKKIKRIMKKIGL",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1617,
+        1618,
+        1619,
+        1620,
+        1621,
+        1622,
+        1623,
+        1624,
+        1625,
+        1626
+      ]
+    },
+    {
+      "id": "source-row-1627",
+      "sequence": "QISKLLARLRRLKWAKIRTQIAGVRKYFTRSYWRELIAK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1627,
+        1628,
+        1629
+      ]
+    },
+    {
+      "id": "source-row-1630",
+      "sequence": "RRLSTWKLKLRMF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1630,
+        1631,
+        1632,
+        1633,
+        1634
+      ]
+    },
+    {
+      "id": "source-row-1635",
+      "sequence": "RWSEREFKIRMLGLKKK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1635
+      ]
+    },
+    {
+      "id": "source-row-1636",
+      "sequence": "TWFIKVSLIRKKLLENNEKINW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1636,
+        1637,
+        1638,
+        1639,
+        1640,
+        1641
+      ]
+    },
+    {
+      "id": "source-row-1642",
+      "sequence": "VKKYGLRNKRELWKSLSVLRRFRG",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1642,
+        1643,
+        1644,
+        1645,
+        1646,
+        1647,
+        1648
+      ]
+    },
+    {
+      "id": "source-row-1649",
+      "sequence": "WLGDKALAKLLKFLKGIK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1649,
+        1650,
+        1651,
+        1652,
+        1653,
+        1654
+      ]
+    },
+    {
+      "id": "source-row-1655",
+      "sequence": "WPLPKIFRLTKGGKLNKKIF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1655
+      ]
+    },
+    {
+      "id": "source-row-1656",
+      "sequence": "WRLRIASLASLRRF",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1656,
+        1657,
+        1658,
+        1659,
+        1660,
+        1661
+      ]
+    },
+    {
+      "id": "source-row-1662",
+      "sequence": "WRRIRWALKLVRLW",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1662,
+        1663,
+        1664,
+        1665,
+        1666,
+        1667
+      ]
+    },
+    {
+      "id": "source-row-1668",
+      "sequence": "YLARLVIRRTLRALKKLK",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1668,
+        1669,
+        1670,
+        1671,
+        1672,
+        1673,
+        1674,
+        1675,
+        1676,
+        1677
+      ]
+    },
+    {
+      "id": "source-row-1678",
+      "sequence": "YLGRLVIRRALKVLRLLKS",
+      "split": "10.1038/s41564-025-02061-0",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1678,
+        1679,
+        1680,
+        1681,
+        1682,
+        1683,
+        1684,
+        1685,
+        1686,
+        1687
+      ]
+    },
+    {
+      "id": "source-row-1688",
+      "sequence": "ELKFKARKKKKLTRAQLKEREARRRLRHLEWLQSPK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1688,
+        1689,
+        1690
+      ]
+    },
+    {
+      "id": "source-row-1691",
+      "sequence": "FQQQNRNFIRQQFRLQPRQNFMVQQQRFRQPPRVQNFANQNFQQFRPR",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1691
+      ]
+    },
+    {
+      "id": "source-row-1692",
+      "sequence": "FRSLKQLIQSQPHVSLKRRLELAQALANTLLQLHTAGWLHKNLRS",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1692,
+        1693
+      ]
+    },
+    {
+      "id": "source-row-1694",
+      "sequence": "FRVTHEKLQRLLKSTQQTLFPRKTRWVIQNKARFELLIAEIRG",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1694
+      ]
+    },
+    {
+      "id": "source-row-1695",
+      "sequence": "FVKFTISKVNKIIFK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1695
+      ]
+    },
+    {
+      "id": "source-row-1696",
+      "sequence": "GHLMLSGLKLRLSRW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1696,
+        1697
+      ]
+    },
+    {
+      "id": "source-row-1698",
+      "sequence": "HKVGSLSGGWKMKLALARAMLKK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1698,
+        1699
+      ]
+    },
+    {
+      "id": "source-row-1700",
+      "sequence": "HTIHRASTLKKIKWGMRDKIRF",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1700
+      ]
+    },
+    {
+      "id": "source-row-1701",
+      "sequence": "IGPFRPITVGHKWKPLRFKK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1701,
+        1702
+      ]
+    },
+    {
+      "id": "source-row-1703",
+      "sequence": "IHSVGGSLRRPIRVQQLQLNLRRKPQMTRGQFRRPVSKHQPTHRVPS",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1703,
+        1704
+      ]
+    },
+    {
+      "id": "source-row-1705",
+      "sequence": "IRIQLKKFIKIIR",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1705,
+        1706,
+        1707,
+        1708,
+        1709,
+        1710
+      ]
+    },
+    {
+      "id": "source-row-1711",
+      "sequence": "ISFSLAKKSIGLGKRINLFKK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1711
+      ]
+    },
+    {
+      "id": "source-row-1712",
+      "sequence": "KFKLLFRLRRLIELLNSPR",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1712,
+        1713,
+        1714,
+        1715,
+        1716,
+        1717,
+        1718,
+        1719,
+        1720
+      ]
+    },
+    {
+      "id": "source-row-1721",
+      "sequence": "KFLRQIVIAWELAARLKHHRK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1721,
+        1722,
+        1723,
+        1724
+      ]
+    },
+    {
+      "id": "source-row-1725",
+      "sequence": "KIHVIDGIKLKVDKLLSRRKLKK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1725
+      ]
+    },
+    {
+      "id": "source-row-1726",
+      "sequence": "KIRRIPIRRTLHQMRRI",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1726
+      ]
+    },
+    {
+      "id": "source-row-1727",
+      "sequence": "KIRSRVQKLAALLKQNNRKVRFRAP",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1727,
+        1728,
+        1729
+      ]
+    },
+    {
+      "id": "source-row-1730",
+      "sequence": "KRFNGSRRIALVYKLPRSRGLPHKPPSLLDVLKLAKKDRTRPPLGQRFEL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1730,
+        1731
+      ]
+    },
+    {
+      "id": "source-row-1732",
+      "sequence": "KRIIEAIVGRQKLKKTFQYEVKWKYWKPKYNSWVPK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1732
+      ]
+    },
+    {
+      "id": "source-row-1733",
+      "sequence": "KRPLTIFRKRKEPWKRLRWVTLDDKKFGRLLDKAKS",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1733,
+        1734
+      ]
+    },
+    {
+      "id": "source-row-1735",
+      "sequence": "LAKHGLKSLKKFMKVL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1735,
+        1736,
+        1737
+      ]
+    },
+    {
+      "id": "source-row-1738",
+      "sequence": "LIGKALNRIWKLL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1738,
+        1739,
+        1740
+      ]
+    },
+    {
+      "id": "source-row-1741",
+      "sequence": "LKGVKVRQKKKKLTRNEKKLQVERRRLRYIEWLSSPKG",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1741
+      ]
+    },
+    {
+      "id": "source-row-1742",
+      "sequence": "LKKIRNRFITFLAKRKVQASKFFKS",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1742,
+        1743,
+        1744
+      ]
+    },
+    {
+      "id": "source-row-1745",
+      "sequence": "LKRYHKLLLKRRQWTTKIGRIL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1745,
+        1746,
+        1747,
+        1748,
+        1749,
+        1750,
+        1751,
+        1752,
+        1753
+      ]
+    },
+    {
+      "id": "source-row-1754",
+      "sequence": "LLKERIRKLIVLLKNKGTQRHLHTLQP",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1754,
+        1755,
+        1756
+      ]
+    },
+    {
+      "id": "source-row-1757",
+      "sequence": "LLLRLLRLIKL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1757,
+        1758,
+        1759,
+        1760,
+        1761,
+        1762,
+        1763,
+        1764,
+        1765,
+        1766
+      ]
+    },
+    {
+      "id": "source-row-1767",
+      "sequence": "LQHAAALRQKRIGWLRLTKW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1767,
+        1768
+      ]
+    },
+    {
+      "id": "source-row-1769",
+      "sequence": "LRQKRIGWLRLTKWTLYDKKRF",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1769
+      ]
+    },
+    {
+      "id": "source-row-1770",
+      "sequence": "LRQRILLRAKIVQKKNHLPKRLRW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1770,
+        1771
+      ]
+    },
+    {
+      "id": "source-row-1772",
+      "sequence": "LRRSSSYRRQLWKKLFKNVR",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1772,
+        1773,
+        1774,
+        1775,
+        1776
+      ]
+    },
+    {
+      "id": "source-row-1777",
+      "sequence": "LVRLTRWRRVSGLGRVAAAFRRIS",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1777,
+        1778,
+        1779
+      ]
+    },
+    {
+      "id": "source-row-1780",
+      "sequence": "RFKLKLVFSDLRFKGLKLKAQIKW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1780,
+        1781,
+        1782,
+        1783,
+        1784,
+        1785
+      ]
+    },
+    {
+      "id": "source-row-1786",
+      "sequence": "RIKPPLELRYRLAKRIAGSLSKLF",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1786,
+        1787,
+        1788,
+        1789,
+        1790,
+        1791,
+        1792
+      ]
+    },
+    {
+      "id": "source-row-1793",
+      "sequence": "RKRDFIKKAMVGLKLKSHGGWVRLRWSSF",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1793,
+        1794
+      ]
+    },
+    {
+      "id": "source-row-1795",
+      "sequence": "RKTRPPLEVRFKLAHRLASAVALLHAANWLHKSLRS",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1795,
+        1796,
+        1797,
+        1798,
+        1799,
+        1800,
+        1801,
+        1802
+      ]
+    },
+    {
+      "id": "source-row-1803",
+      "sequence": "RLAALKLRITRW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1803,
+        1804,
+        1805
+      ]
+    },
+    {
+      "id": "source-row-1806",
+      "sequence": "RLFPKRLRWALW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1806,
+        1807,
+        1808,
+        1809
+      ]
+    },
+    {
+      "id": "source-row-1810",
+      "sequence": "RLHKVLRPFLLRRLK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1810,
+        1811
+      ]
+    },
+    {
+      "id": "source-row-1812",
+      "sequence": "RLHRRILWRL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1812
+      ]
+    },
+    {
+      "id": "source-row-1813",
+      "sequence": "RLIEAIVGRQKYKKSFKYEIKWMHYKPKTNTWLTKEFLLEQGFHKLVQK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1813,
+        1814
+      ]
+    },
+    {
+      "id": "source-row-1815",
+      "sequence": "RNPLRKVRYSLRLPAKAAQRLKRIANFQPGSLRRIGLSALK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1815,
+        1816,
+        1817,
+        1818,
+        1819,
+        1820
+      ]
+    },
+    {
+      "id": "source-row-1821",
+      "sequence": "RQKLKRSFQYEIKWKLWKPKYNSWLSREKLVEEG",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1821
+      ]
+    },
+    {
+      "id": "source-row-1822",
+      "sequence": "RQKWKKTFQYEVKWRGWLPKFNSQVSRET",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1822,
+        1823
+      ]
+    },
+    {
+      "id": "source-row-1824",
+      "sequence": "RQKYKKTFQYEVKWRNLLPKHNNMIS",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1824,
+        1825
+      ]
+    },
+    {
+      "id": "source-row-1826",
+      "sequence": "RRKWIKFRLSIKKQLP",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1826,
+        1827,
+        1828,
+        1829,
+        1830,
+        1831
+      ]
+    },
+    {
+      "id": "source-row-1832",
+      "sequence": "RRRLRYITWL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1832,
+        1833,
+        1834
+      ]
+    },
+    {
+      "id": "source-row-1835",
+      "sequence": "RRRLWKKFFKDIR",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1835,
+        1836,
+        1837,
+        1838
+      ]
+    },
+    {
+      "id": "source-row-1839",
+      "sequence": "RRRWTGKIDVAVFLKRKEPWKRLKW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1839
+      ]
+    },
+    {
+      "id": "source-row-1840",
+      "sequence": "RRWFRFQTTMLKARMLMT",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1840,
+        1841,
+        1842
+      ]
+    },
+    {
+      "id": "source-row-1843",
+      "sequence": "RTRQYAKRQVKWIKKMLIP",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1843,
+        1844,
+        1845
+      ]
+    },
+    {
+      "id": "source-row-1846",
+      "sequence": "RYKLKRLHRITW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1846
+      ]
+    },
+    {
+      "id": "source-row-1847",
+      "sequence": "RYRLKLKIAKRRLARW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1847,
+        1848,
+        1849,
+        1850,
+        1851
+      ]
+    },
+    {
+      "id": "source-row-1852",
+      "sequence": "TKLRQQYEIELKKLPKVYKRSIVRNYKPLINRLKHYNG",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1852
+      ]
+    },
+    {
+      "id": "source-row-1853",
+      "sequence": "WIAKLKAQRLKLKHLQRF",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1853
+      ]
+    },
+    {
+      "id": "source-row-1854",
+      "sequence": "WIAQLRAERTKMKVRHRW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1854
+      ]
+    },
+    {
+      "id": "source-row-1855",
+      "sequence": "WRKVKTRAGFVPWLKSL",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1855
+      ]
+    },
+    {
+      "id": "source-row-1856",
+      "sequence": "WRPLKEIFLRSARAKALTALKK",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1856,
+        1857
+      ]
+    },
+    {
+      "id": "source-row-1858",
+      "sequence": "YWRAKYVLGRVLGGMKRMRAANGW",
+      "split": "10.1038/s41564-026-02408-1",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1858,
+        1859,
+        1860
+      ]
+    },
+    {
+      "id": "source-row-1861",
+      "sequence": "KKKKLDDILDDLFQFIKQLKNKLQKIKKKK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1861
+      ]
+    },
+    {
+      "id": "source-row-1862",
+      "sequence": "KKKKLKKFFKKLIQLINQLFDDLDDFKKKK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1862,
+        1863
+      ]
+    },
+    {
+      "id": "source-row-1864",
+      "sequence": "KKKKLKKILKKLFQFIDQLDNDLQDIKKKK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1864,
+        1865
+      ]
+    },
+    {
+      "id": "source-row-1866",
+      "sequence": "KKKKLKKILKKLFQFINQLDNQLQDIKQNK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1866,
+        1867
+      ]
+    },
+    {
+      "id": "source-row-1868",
+      "sequence": "KKKKLKKILKKLFQFINQLIDDLDDIKKKK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1868,
+        1869
+      ]
+    },
+    {
+      "id": "source-row-1870",
+      "sequence": "KKKKLKKILKKLIQLIDQLDNDLQDIKKKK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1870,
+        1871
+      ]
+    },
+    {
+      "id": "source-row-1872",
+      "sequence": "KKKKVKKVVKKVFSFVDSVDSDVSDVKKKK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1872,
+        1873
+      ]
+    },
+    {
+      "id": "source-row-1874",
+      "sequence": "KQKKLKKFFNQLIQLINQLFNQLDDFNQNK",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1874,
+        1875
+      ]
+    },
+    {
+      "id": "source-row-1876",
+      "sequence": "KRKRLKRIVKRAWTFMDSVENDLQEIKRKR",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1876,
+        1877
+      ]
+    },
+    {
+      "id": "source-row-1878",
+      "sequence": "NQKKLRRILRRLFQFIDQLDNDLQDIKKQN",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1878
+      ]
+    },
+    {
+      "id": "source-row-1879",
+      "sequence": "NQRRLRRILNQLFQFINQLDNQLQDIRRQN",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1879
+      ]
+    },
+    {
+      "id": "source-row-1880",
+      "sequence": "RRRRLRRILRRLFQFINQLDNQLQDIRQNR",
+      "split": "10.1038/s41589-026-02269-z",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1880,
+        1881
+      ]
+    },
+    {
+      "id": "source-row-1882",
+      "sequence": "FLGAIGNVLKSIL",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1882,
+        1883,
+        1884,
+        1885,
+        1886,
+        1887,
+        1888,
+        1889,
+        1890,
+        1891,
+        1892,
+        1893,
+        1894
+      ]
+    },
+    {
+      "id": "source-row-1895",
+      "sequence": "FLGALWNVAKSVF",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1895,
+        1896,
+        1897,
+        1898,
+        1899,
+        1900,
+        1901,
+        1902,
+        1903,
+        1904,
+        1905,
+        1906,
+        1907,
+        1908
+      ]
+    },
+    {
+      "id": "source-row-1909",
+      "sequence": "FLGSLWRKAGTVF",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1909,
+        1910,
+        1911,
+        1912,
+        1913
+      ]
+    },
+    {
+      "id": "source-row-1914",
+      "sequence": "FLPLIGRVLSGIL",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1914,
+        1915,
+        1916,
+        1917,
+        1918,
+        1919,
+        1920,
+        1921,
+        1922,
+        1923,
+        1924,
+        1925,
+        1926
+      ]
+    },
+    {
+      "id": "source-row-1927",
+      "sequence": "FLPLLWRVASGVF",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936,
+        1937,
+        1938,
+        1939
+      ]
+    },
+    {
+      "id": "source-row-1940",
+      "sequence": "GLGALLNVIKSGL",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1940,
+        1941,
+        1942,
+        1943
+      ]
+    },
+    {
+      "id": "source-row-1944",
+      "sequence": "GLLKRIKTLL",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949,
+        1950
+      ]
+    },
+    {
+      "id": "source-row-1951",
+      "sequence": "ILGAILNVLKSLG",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1958,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963
+      ]
+    },
+    {
+      "id": "source-row-1964",
+      "sequence": "ILGTILGLLKGL",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1964,
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975,
+        1976,
+        1977,
+        1978
+      ]
+    },
+    {
+      "id": "source-row-1979",
+      "sequence": "SLLSLIRKLIT",
+      "split": "10.1038/s42003-023-05254-7",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1984,
+        1985
+      ]
+    },
+    {
+      "id": "source-row-1986",
+      "sequence": "FKLCFVLHFVAL",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1986
+      ]
+    },
+    {
+      "id": "source-row-1987",
+      "sequence": "FRLAAVLHFHIH",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    {
+      "id": "source-row-1992",
+      "sequence": "HWHLILHFHACH",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1992,
+        1993
+      ]
+    },
+    {
+      "id": "source-row-1994",
+      "sequence": "HWKLIVRWKVQH",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "id": "source-row-2002",
+      "sequence": "IWHAAVLHFAIS",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2002,
+        2003
+      ]
+    },
+    {
+      "id": "source-row-2004",
+      "sequence": "KFKLIVHYRICK",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    {
+      "id": "source-row-2008",
+      "sequence": "KWKARIQFKAAH",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "id": "source-row-2015",
+      "sequence": "PHAMAWLCIRFH",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    {
+      "id": "source-row-2018",
+      "sequence": "WHFHVWIHCIAF",
+      "split": "10.1038/s42256-025-01119-2",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2018,
+        2019
+      ]
+    },
+    {
+      "id": "source-row-2020",
+      "sequence": "CELHFRQLPAVKARLLKLRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    {
+      "id": "source-row-2026",
+      "sequence": "CELRFHQLPAVKARLLKLRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2026,
+        2027,
+        2028,
+        2029,
+        2030,
+        2031
+      ]
+    },
+    {
+      "id": "source-row-2032",
+      "sequence": "CHELFRQLPAVKARLLKLRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2032,
+        2033,
+        2034,
+        2035,
+        2036,
+        2037
+      ]
+    },
+    {
+      "id": "source-row-2038",
+      "sequence": "CHLEFRQLPAVKARLLKLRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2038,
+        2039,
+        2040,
+        2041,
+        2042,
+        2043
+      ]
+    },
+    {
+      "id": "source-row-2044",
+      "sequence": "CRLLFRQLPAVKERLLKLRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2044,
+        2045,
+        2046,
+        2047,
+        2048,
+        2049
+      ]
+    },
+    {
+      "id": "source-row-2050",
+      "sequence": "FIAKKLSLRWFRLNIRTLPKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2050,
+        2051,
+        2052,
+        2053,
+        2054,
+        2055
+      ]
+    },
+    {
+      "id": "source-row-2056",
+      "sequence": "FIYAKLSLRWFRLNIRTLPKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2056,
+        2057,
+        2058,
+        2059
+      ]
+    },
+    {
+      "id": "source-row-2060",
+      "sequence": "GHKLIHLIGKAKLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2060,
+        2061,
+        2062,
+        2063,
+        2064,
+        2065,
+        2066,
+        2067
+      ]
+    },
+    {
+      "id": "source-row-2068",
+      "sequence": "GHLKIHLIGKAKLNL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2068,
+        2069,
+        2070,
+        2071,
+        2072,
+        2073,
+        2074,
+        2075
+      ]
+    },
+    {
+      "id": "source-row-2076",
+      "sequence": "GHLKIHLIGKASLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2076,
+        2077,
+        2078,
+        2079,
+        2080,
+        2081,
+        2082
+      ]
+    },
+    {
+      "id": "source-row-2083",
+      "sequence": "GHLLIGLIGKLTLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2083,
+        2084,
+        2085,
+        2086,
+        2087,
+        2088,
+        2089
+      ]
+    },
+    {
+      "id": "source-row-2090",
+      "sequence": "GHLLIKLIGKATLKLK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2090,
+        2091,
+        2092,
+        2093,
+        2094,
+        2095
+      ]
+    },
+    {
+      "id": "source-row-2096",
+      "sequence": "GHLLIRLIGKLTLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2096,
+        2097,
+        2098,
+        2099,
+        2100,
+        2101
+      ]
+    },
+    {
+      "id": "source-row-2102",
+      "sequence": "GHLLISLIGKLTLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2102,
+        2103
+      ]
+    },
+    {
+      "id": "source-row-2104",
+      "sequence": "GHLSIHLIGKAKLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2104,
+        2105,
+        2106,
+        2107,
+        2108,
+        2109,
+        2110
+      ]
+    },
+    {
+      "id": "source-row-2111",
+      "sequence": "GHLSIHLIGKLTLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2111,
+        2112,
+        2113,
+        2114,
+        2115
+      ]
+    },
+    {
+      "id": "source-row-2116",
+      "sequence": "GHLSLIHLIGKLTLKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2116,
+        2117,
+        2118,
+        2119
+      ]
+    },
+    {
+      "id": "source-row-2120",
+      "sequence": "HKIKINTIKLKIKLKI",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2120,
+        2121,
+        2122,
+        2123,
+        2124
+      ]
+    },
+    {
+      "id": "source-row-2125",
+      "sequence": "IASLHARSIARLLKIWRNVHQGLGLKW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2125,
+        2126,
+        2127,
+        2128
+      ]
+    },
+    {
+      "id": "source-row-2129",
+      "sequence": "IASLHARSIARLLKLWRNVHQGLGLKW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2129,
+        2130,
+        2131,
+        2132,
+        2133
+      ]
+    },
+    {
+      "id": "source-row-2134",
+      "sequence": "IASLHARSIARLLKRWINVHQGLGLKW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2134,
+        2135,
+        2136,
+        2137
+      ]
+    },
+    {
+      "id": "source-row-2138",
+      "sequence": "IASLHARSIARLLKRWLNVHQGLGLKW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2138,
+        2139,
+        2140,
+        2141,
+        2142
+      ]
+    },
+    {
+      "id": "source-row-2143",
+      "sequence": "IAWLHARSIARLLKRWINVHQGLGLKW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2143,
+        2144,
+        2145,
+        2146
+      ]
+    },
+    {
+      "id": "source-row-2147",
+      "sequence": "IQKLHARSIARLHKLWRPVHQFLELK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2147,
+        2148,
+        2149,
+        2150,
+        2151,
+        2152
+      ]
+    },
+    {
+      "id": "source-row-2153",
+      "sequence": "IQKLHARSIARLLKRWRPVHQELNLK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2153
+      ]
+    },
+    {
+      "id": "source-row-2154",
+      "sequence": "IQKLHARSIARLLKRWRPVHQLLELK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2154,
+        2155,
+        2156,
+        2157,
+        2158,
+        2159
+      ]
+    },
+    {
+      "id": "source-row-2160",
+      "sequence": "IRKIGLKLAWALSLKNKF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2160,
+        2161,
+        2162,
+        2163
+      ]
+    },
+    {
+      "id": "source-row-2164",
+      "sequence": "IRKRILWLARALSLNNKF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2164,
+        2165,
+        2166,
+        2167
+      ]
+    },
+    {
+      "id": "source-row-2168",
+      "sequence": "IRKRLLWLARALSLNNKF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2168,
+        2169,
+        2170,
+        2171,
+        2172,
+        2173,
+        2174,
+        2175
+      ]
+    },
+    {
+      "id": "source-row-2176",
+      "sequence": "IWARNLVRYVQWLKKKKVIW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2176,
+        2177,
+        2178
+      ]
+    },
+    {
+      "id": "source-row-2179",
+      "sequence": "IWARNLVRYVWGLKKKKVIW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2179,
+        2180,
+        2181,
+        2182,
+        2183,
+        2184
+      ]
+    },
+    {
+      "id": "source-row-2185",
+      "sequence": "IWARNLVRYVWGLKKKKVW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2185,
+        2186,
+        2187,
+        2188,
+        2189,
+        2190,
+        2191
+      ]
+    },
+    {
+      "id": "source-row-2192",
+      "sequence": "IWLLASQLIAVKARLIKHRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2192,
+        2193,
+        2194,
+        2195
+      ]
+    },
+    {
+      "id": "source-row-2196",
+      "sequence": "IWLLASQLIAVKARLLKHRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2196,
+        2197,
+        2198,
+        2199,
+        2200
+      ]
+    },
+    {
+      "id": "source-row-2201",
+      "sequence": "IWLLFAQLIAVKARLTKIRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2201,
+        2202,
+        2203,
+        2204,
+        2205,
+        2206,
+        2207
+      ]
+    },
+    {
+      "id": "source-row-2208",
+      "sequence": "IWLLFAQLWAVKARITKLRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2208,
+        2209,
+        2210,
+        2211,
+        2212,
+        2213
+      ]
+    },
+    {
+      "id": "source-row-2214",
+      "sequence": "IWLLFSQLAAVKARALKIRIKWNRK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2214,
+        2215,
+        2216,
+        2217,
+        2218,
+        2219,
+        2220
+      ]
+    },
+    {
+      "id": "source-row-2221",
+      "sequence": "KIGKKLSIPPFKLKIRNLFKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2221
+      ]
+    },
+    {
+      "id": "source-row-2222",
+      "sequence": "KIGKKLSLPPFKLKIRQLMKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2222,
+        2223,
+        2224
+      ]
+    },
+    {
+      "id": "source-row-2225",
+      "sequence": "KIGKKLSRWLFRLNIRGLPKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2225,
+        2226,
+        2227,
+        2228,
+        2229,
+        2230,
+        2231
+      ]
+    },
+    {
+      "id": "source-row-2232",
+      "sequence": "KIIRGLKLAWALSLKNKF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2232,
+        2233,
+        2234,
+        2235
+      ]
+    },
+    {
+      "id": "source-row-2236",
+      "sequence": "KIKIGLKLAKALSLNNKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2236,
+        2237,
+        2238
+      ]
+    },
+    {
+      "id": "source-row-2239",
+      "sequence": "KIKIGLKLATKLSLNNKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2239,
+        2240,
+        2241,
+        2242,
+        2243,
+        2244,
+        2245
+      ]
+    },
+    {
+      "id": "source-row-2246",
+      "sequence": "KIKRLLKLATKLSLNNKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2246,
+        2247,
+        2248,
+        2249
+      ]
+    },
+    {
+      "id": "source-row-2250",
+      "sequence": "KINKILSLPPFKLKIRGLPKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2250,
+        2251,
+        2252,
+        2253,
+        2254,
+        2255,
+        2256
+      ]
+    },
+    {
+      "id": "source-row-2257",
+      "sequence": "KINKKLSIPPFKLKIRFLGKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2257,
+        2258,
+        2259,
+        2260,
+        2261,
+        2262
+      ]
+    },
+    {
+      "id": "source-row-2263",
+      "sequence": "KINKKLSIPPFKLKIRGLPQVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2263,
+        2264,
+        2265,
+        2266
+      ]
+    },
+    {
+      "id": "source-row-2267",
+      "sequence": "KMIGINKIKLSISLKI",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2267,
+        2268
+      ]
+    },
+    {
+      "id": "source-row-2269",
+      "sequence": "KMKIGLKLATALSLKNKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2269,
+        2270,
+        2271,
+        2272,
+        2273,
+        2274
+      ]
+    },
+    {
+      "id": "source-row-2275",
+      "sequence": "KNLFRKVQGLKLKKKLIVRPVGIGPFANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2275,
+        2276,
+        2277,
+        2278,
+        2279
+      ]
+    },
+    {
+      "id": "source-row-2280",
+      "sequence": "KNLSRIVQGLKKFKKKINIPVGIGPFANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2280,
+        2281,
+        2282,
+        2283,
+        2284
+      ]
+    },
+    {
+      "id": "source-row-2285",
+      "sequence": "KNLSRIVQGLKKFKKQIRIPVGIGPFANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2285,
+        2286,
+        2287,
+        2288,
+        2289
+      ]
+    },
+    {
+      "id": "source-row-2290",
+      "sequence": "KRKIGLKLAWALSLKLKF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2290,
+        2291,
+        2292
+      ]
+    },
+    {
+      "id": "source-row-2293",
+      "sequence": "KTLKIIRLLCK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2293,
+        2294,
+        2295,
+        2296
+      ]
+    },
+    {
+      "id": "source-row-2297",
+      "sequence": "KTLKIIRLLFCK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2297,
+        2298,
+        2299,
+        2300,
+        2301,
+        2302
+      ]
+    },
+    {
+      "id": "source-row-2303",
+      "sequence": "KTSKIIRLLFK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2303,
+        2304,
+        2305,
+        2306,
+        2307
+      ]
+    },
+    {
+      "id": "source-row-2308",
+      "sequence": "KTWLKIIRLLKF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2308,
+        2309,
+        2310,
+        2311,
+        2312,
+        2313
+      ]
+    },
+    {
+      "id": "source-row-2314",
+      "sequence": "KVKRILKLATALKLNNKL",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2314,
+        2315,
+        2316
+      ]
+    },
+    {
+      "id": "source-row-2317",
+      "sequence": "KWLKIIRLRLF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2317,
+        2318,
+        2319,
+        2320,
+        2321,
+        2322,
+        2323,
+        2324
+      ]
+    },
+    {
+      "id": "source-row-2325",
+      "sequence": "KWLKRIIRLLF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2325,
+        2326,
+        2327,
+        2328,
+        2329,
+        2330,
+        2331
+      ]
+    },
+    {
+      "id": "source-row-2332",
+      "sequence": "KWLRKIIRLLF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2332,
+        2333,
+        2334,
+        2335,
+        2336,
+        2337,
+        2338,
+        2339
+      ]
+    },
+    {
+      "id": "source-row-2340",
+      "sequence": "KWTLKIIRLLKF",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2340,
+        2341,
+        2342,
+        2343,
+        2344,
+        2345
+      ]
+    },
+    {
+      "id": "source-row-2346",
+      "sequence": "LAKNHWIHFRVLAKALW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2346,
+        2347
+      ]
+    },
+    {
+      "id": "source-row-2348",
+      "sequence": "LRIKNHWIHFRVLAKALW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2348,
+        2349,
+        2350,
+        2351,
+        2352,
+        2353,
+        2354
+      ]
+    },
+    {
+      "id": "source-row-2355",
+      "sequence": "RIARNLVRWVLGLKKKKVW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2355,
+        2356,
+        2357,
+        2358,
+        2359,
+        2360,
+        2361
+      ]
+    },
+    {
+      "id": "source-row-2362",
+      "sequence": "RIARWLVRYVQWLKKKKVW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2362,
+        2363,
+        2364,
+        2365,
+        2366,
+        2367
+      ]
+    },
+    {
+      "id": "source-row-2368",
+      "sequence": "RKELHARQIARLHKLWRPVHQELWLK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2368,
+        2369,
+        2370
+      ]
+    },
+    {
+      "id": "source-row-2371",
+      "sequence": "RKELHARQIARLHKLWRPVHQWLELK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2371,
+        2372,
+        2373,
+        2374
+      ]
+    },
+    {
+      "id": "source-row-2375",
+      "sequence": "RLARNLVRYVQALKKLKVW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2375,
+        2376,
+        2377,
+        2378,
+        2379
+      ]
+    },
+    {
+      "id": "source-row-2380",
+      "sequence": "RLARNLVRYVQALKWKKVW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2380,
+        2381,
+        2382,
+        2383
+      ]
+    },
+    {
+      "id": "source-row-2384",
+      "sequence": "RLARNLVRYVQLLKWKKVK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2384,
+        2385,
+        2386,
+        2387,
+        2388
+      ]
+    },
+    {
+      "id": "source-row-2389",
+      "sequence": "RLKNHWIAFRVLAKALW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2389,
+        2390,
+        2391
+      ]
+    },
+    {
+      "id": "source-row-2392",
+      "sequence": "RLKNWAIHFRVLAKALW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2392,
+        2393,
+        2394,
+        2395
+      ]
+    },
+    {
+      "id": "source-row-2396",
+      "sequence": "RNLARYVWGLKLKKVIKIKVGIGRWANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2396,
+        2397,
+        2398,
+        2399
+      ]
+    },
+    {
+      "id": "source-row-2400",
+      "sequence": "RNLARYVWGLKLKKVIKIVGIGRWANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2400,
+        2401,
+        2402,
+        2403
+      ]
+    },
+    {
+      "id": "source-row-2404",
+      "sequence": "RNLVRWVAGLKLKKKVIKIKVGIGRWANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2404,
+        2405,
+        2406,
+        2407,
+        2408
+      ]
+    },
+    {
+      "id": "source-row-2409",
+      "sequence": "RNLVRWVIGLKLKKKVIKIKVGIGRWANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2409,
+        2410,
+        2411,
+        2412,
+        2413,
+        2414
+      ]
+    },
+    {
+      "id": "source-row-2415",
+      "sequence": "RNLWRYVAGLKLKKVIKIKVGIGRWANIK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2415,
+        2416,
+        2417,
+        2418,
+        2419
+      ]
+    },
+    {
+      "id": "source-row-2420",
+      "sequence": "RPARNLVRYVAGLKKLKVW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2420,
+        2421,
+        2422,
+        2423,
+        2424
+      ]
+    },
+    {
+      "id": "source-row-2425",
+      "sequence": "RPARNLVRYVQGLKLKKVWK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2425,
+        2426,
+        2427,
+        2428
+      ]
+    },
+    {
+      "id": "source-row-2429",
+      "sequence": "RQKNLKIPFRVLAKALRP",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2429,
+        2430
+      ]
+    },
+    {
+      "id": "source-row-2431",
+      "sequence": "RQKNPLIKFRVLAKALRP",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2431,
+        2432
+      ]
+    },
+    {
+      "id": "source-row-2433",
+      "sequence": "RQKNPLIKLRVLAKALR",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2433,
+        2434,
+        2435
+      ]
+    },
+    {
+      "id": "source-row-2436",
+      "sequence": "WIAKKLSLRWFRLNIRTLPKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2436,
+        2437,
+        2438,
+        2439
+      ]
+    },
+    {
+      "id": "source-row-2440",
+      "sequence": "WIYAKLSLRWFRLNIRTLPKVKFPK",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2440
+      ]
+    },
+    {
+      "id": "source-row-2441",
+      "sequence": "WLKNHAIHFRVLAKALW",
+      "split": "10.1038/s42256-026-01237-5",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2441,
+        2442
+      ]
+    },
+    {
+      "id": "source-row-2443",
+      "sequence": "FLPIIINLKALAALAKKIL",
+      "split": "10.1073/pnas.2012379117",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2443
+      ]
+    },
+    {
+      "id": "source-row-2444",
+      "sequence": "GIIWATWKTRWYSMKKTTMKIIPFNRLTIG",
+      "split": "10.3390/ijms26188914",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2444
+      ]
+    },
+    {
+      "id": "source-row-2445",
+      "sequence": "GVVWMNWKGSWYSMRKMSMKIRPFFPQQ",
+      "split": "10.3390/ijms26188914",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2445
+      ]
+    },
+    {
+      "id": "source-row-2446",
+      "sequence": "GVVWVSFRGADYSLRAVRMKIRPLVTQ",
+      "split": "10.3390/ijms26188914",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2446
+      ]
+    },
+    {
+      "id": "source-row-2447",
+      "sequence": "NWKGSWYSMRKMSMKIRPFFPQQ",
+      "split": "10.3390/ijms26188914",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2447
+      ]
+    },
+    {
+      "id": "source-row-2448",
+      "sequence": "SFRGADYSLRAVRMKIRPLVTQ",
+      "split": "10.3390/ijms26188914",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2448
+      ]
+    },
+    {
+      "id": "source-row-2449",
+      "sequence": "TWKTRWYSMKKTTMKIIPFNRLTIG",
+      "split": "10.3390/ijms26188914",
+      "chemistry": "unknown",
+      "source_row_numbers": [
+        2449
+      ]
+    }
+  ]
+}

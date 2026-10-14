@@ -1,0 +1,34 @@
+{
+  "similarity_threshold": 0.85,
+  "rows": [
+    {
+      "id": "p1",
+      "sequence": "KLLKLLKK",
+      "split": "train",
+      "chemistry": "all-L; free termini",
+      "label": 1
+    },
+    {
+      "id": "p2",
+      "sequence": "KLLKLLKK",
+      "split": "test",
+      "chemistry": "all-D; C-amidated",
+      "label": 0
+    },
+    {
+      "id": "p3",
+      "sequence": "KLLKLLKR",
+      "split": "test",
+      "chemistry": "all-L; free termini",
+      "label": 1
+    },
+    {
+      "id": "p4",
+      "sequence": "DEDEDEDE",
+      "split": "train",
+      "chemistry": "all-L; free termini",
+      "label": 0
+    }
+  ],
+  "data_kind": "synthetic fixture; no scientific performance claims"
+}
