@@ -2,7 +2,7 @@
 
 This is a derived evaluation dataset, not a new experimental measurement collection. It reorganizes the full public GRAMPA table into a versioned source ledger, retained chemistry metadata and non-overlapping sequence components.
 
-The pinned upstream source contains 51,345 records. The builder retains **49,172 records, 6,391 canonical peptide sequences and 750 target organisms**, excluding 2,173 rows with noncanonical sequences or length outside 8–100 residues. There is no small-data sampling cap.
+The pinned upstream source contains 51,345 records. The builder retains **49,172 records, 6,391 canonical peptide sequences and 750 source organism labels**, excluding 2,173 rows with noncanonical sequences or length outside 8–100 residues. There is no small-data sampling cap. The organism count refers to distinct upstream text labels; aliases and typos have not been taxonomically reconciled into distinct biological species.
 
 ## Target and provenance
 

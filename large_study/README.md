@@ -1,6 +1,6 @@
 # Species-conditioned MIC prediction and component coverage
 
-The larger study uses all **49,172 eligible GRAMPA records**, covering **6,391 sequences and 750 organisms**. A frozen **35M-parameter ESM-2 transformer** supplies sequence representations. Three trainable neural heads combine those representations with organism embeddings, composition/length and inherited chemistry flags to predict the mean and scale of log10 MIC.
+The larger study uses all **49,172 eligible GRAMPA records**, covering **6,391 sequences and 750 source organism labels**. A frozen **35M-parameter ESM-2 transformer** supplies sequence representations. Three trainable neural heads combine those representations with organism embeddings, composition/length and inherited chemistry flags to predict the mean and scale of log10 MIC.
 
 The model is trained, evaluated and released here. It is not a claim of a new foundation model or experimentally validated peptide discovery.
 

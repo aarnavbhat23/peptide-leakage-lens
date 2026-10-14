@@ -2,7 +2,7 @@
 
 A peptide-model evaluation project with a large trained-model benchmark, uncertainty analysis and source/split audits.
 
-The [larger benchmark](large_study/README.md) uses **49,172 GRAMPA records, 6,391 peptides and 750 target organisms**. A frozen **ESM-2 35M transformer** plus three trained species-conditioned neural heads reaches **0.685 test RMSE in log10 MIC units**, essentially tied with a gradient-boosting baseline. It also shows how the calibration unit changes simultaneous coverage across an entire peptide component: **62.4% with row calibration versus 91.4% with component calibration**, at the cost of wider intervals.
+The [larger benchmark](large_study/README.md) uses **49,172 GRAMPA records, 6,391 peptides and 750 source organism labels**. A frozen **ESM-2 35M transformer** plus three trained species-conditioned neural heads reaches **0.685 test RMSE in log10 MIC units**, essentially tied with a gradient-boosting baseline. It also shows how the calibration unit changes simultaneous coverage across an entire peptide component: **62.4% with row calibration versus 91.4% with component calibration**, at the cost of wider intervals.
 
 ![Large model benchmark](large_study/results/benchmark.png)
 

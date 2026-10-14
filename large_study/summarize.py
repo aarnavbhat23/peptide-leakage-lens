@@ -43,7 +43,7 @@ def main():
     axes[1].set(xticks=x,xticklabels=['Row calibration','Component calibration'],ylabel='Observed test coverage (%)',ylim=(0,108))
     axes[1].legend(frameon=False,loc='lower center',bbox_to_anchor=(.5,1.02),ncol=1,fontsize=9)
     fig.suptitle('A larger peptide benchmark: prediction error and coverage unit',fontweight='bold')
-    fig.supxlabel('49,172 eligible GRAMPA records • 6,391 peptides • 750 organisms\n6,473 test records in 417 held-out edit components; database/lab dependence remains unresolved',fontsize=9)
+    fig.supxlabel('49,172 eligible GRAMPA records • 6,391 peptides • 750 source organism labels\n6,473 test records in 417 held-out edit components; database/lab dependence remains unresolved',fontsize=9)
     for extension in ('png','svg'):fig.savefig(root/'results'/f'benchmark.{extension}',dpi=220)
     plt.close(fig)
     print(report['paired_component_bootstrap'])
